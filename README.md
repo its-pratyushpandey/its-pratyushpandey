@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pratyush Kumar Pandey</h1>
 <h3 align="center">🚀A passionate Full Stack Developer from India</h3>
 
-
 - 🔭 I’m currently working on [NextHire](https://drive.google.com/file/d/1zR70yqpvQ_8vCeJV2hscfK78s2zgx6hl/view?usp=drive_link)
 
 - 🌱 I’m currently learning **- **Next.js** for SSR apps - **NestJS** for scalable Node.js backends - **AWS Cloud & Docker** for deployment and containerization - **Machine Learning** (basics in Python)**
@@ -38,9 +37,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=its-pratyushpandey&show_icons=true&locale=en&layout=compact" alt="its-pratyushpandey" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=its-pratyushpandey&show_icons=true&locale=en" alt="its-pratyushpandey" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=its-pratyushpandey&" alt="its-pratyushpandey" /></p>
 
    
    
