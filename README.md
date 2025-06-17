@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pratyush Kumar Pandey</h1>
 <h3 align="center">🚀A passionate Full Stack Developer from India</h3>
-
+ <br>Building full-stack web applications using Spring Boot, React.js, and Express.js. Currently developing a secure, scalable e-commerce platform with authentication, RESTful APIs, and real-time features.<br><br>
 - 🔭 I’m currently working on [NextHire](https://drive.google.com/file/d/1zR70yqpvQ_8vCeJV2hscfK78s2zgx6hl/view?usp=drive_link)
 
 
