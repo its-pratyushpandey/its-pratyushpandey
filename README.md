@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pratyush Kumar Pandey</h1>
 <h3 align="center">🚀A passionate Full Stack Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=its-pratyushpandey&label=Profile%20views&color=0e75b6&style=flat" alt="its-pratyushpandey" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=its-pratyushpandey" alt="its-pratyushpandey" /></a> </p>
 
 - 🔭 I’m currently working on [NextHire](https://drive.google.com/file/d/1zR70yqpvQ_8vCeJV2hscfK78s2zgx6hl/view?usp=drive_link)
 
