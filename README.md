@@ -56,14 +56,8 @@
    
    
    
-   
-   
-   
-   
-   
-   
-   .                                           Pratyush Kumar Pandey
-🛠 I’m currently working  on<br>Building full-stack web applications using Spring Boot, React.js, and Express.js. Currently developing a secure, scalable e-commerce platform with authentication, RESTful APIs, and real-time features.<br><br>🤝 I’m looking to collaborate on<br>Innovative projects involving MERN stack, Spring Boot APIs, microservices, or AI-integrated web apps. Open to team-based hackathons and open-source contributions.<br><br>🧠 I’m looking for help with<br>Advanced backend architecture, CI/CD pipelines, containerization using Docker, and cloud deployment (AWS/GCP).<br><br>💬 Ask me about<br><br>Full-stack development best practices<br><br>Building RESTful APIs with Java & Node.js<br><br>Clean UI with React + Material UI + Framer Motion<br><br>Frontend state management using Context API / Redux<br><br>
+ 
+🤝 I’m looking to collaborate on<br>Innovative projects involving MERN stack, Spring Boot APIs, microservices, or AI-integrated web apps. Open to team-based hackathons and open-source contributions.<br><br>🧠 I’m looking for help with<br>Advanced backend architecture, CI/CD pipelines, containerization using Docker, and cloud deployment (AWS/GCP).<br><br>💬 Ask me about<br><br>Full-stack development best practices<br><br>Building RESTful APIs with Java & Node.js<br><br>Clean UI with React + Material UI + Framer Motion<br><br>Frontend state management using Context API / Redux<br><br>
 
 
 # 💻 Tech Stack:
