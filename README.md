@@ -12,7 +12,7 @@
 
 - 💬 Ask me about ****React.js**, **Express.js**, **Spring Boot**, **Django**, **Node.js**, **Typescript****
 
-- 📫 How to reach me **📧 pratyush.me.ai@gmail.com 📱 [LinkedIn](www.linkedin.com/in/ pratyush-pandey1)**
+- 📫 How to reach me **📧 pratyush.me.ai@gmail.com **
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1WFIrbopURE5SHz8nAkPmEmqe9QfWZJlF/view?usp=drive_link](https://drive.google.com/file/d/1WFIrbopURE5SHz8nAkPmEmqe9QfWZJlF/view?usp=drive_link)
 
