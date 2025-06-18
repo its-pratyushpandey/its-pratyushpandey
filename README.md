@@ -5,11 +5,8 @@
 
 
 - 🌱 I’m currently learning<br><br>🌐 React.js + Next.js<br><br>🧩 Spring Boot + Spring Security + JWT<br><br>🚀 Express.js + MongoDB<br><br>🌍 Django + Django REST Framework<br><br>🧠 Basics of Machine Learning with Python<br><br>☁️ Cloud Computing fundamentals and DevOps tools<br><br>
-- 👯 I’m looking to collaborate on [CodeSync](https://code-sync-live.vercel.app/)
 
 - 👨‍💻 All of my projects are available at [https://prtyush.netlify.app/](https://prtyush.netlify.app/)
-
-- 💬 Ask me about ****React.js**, **Express.js**, **Spring Boot**, **Django**, **Node.js**, **Typescript****
 
 - 📫 How to reach me  📧 pratyush.me.ai@gmail.com 
 
@@ -43,16 +40,7 @@
    
    
    
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
+      
    
    
    
