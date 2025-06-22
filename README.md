@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [NextHire](https://drive.google.com/file/d/1zR70yqpvQ_8vCeJV2hscfK78s2zgx6hl/view?usp=drive_link)
 
 
-- 🌱 I’m currently learning<br><br>🌐 React.js + Next.js<br><br>🧩 Spring Boot + Spring Security + JWT<br><br>🚀 Express.js + MongoDB<br><br>🌍 Django + Django REST Framework<br><br>🧠 Basics of Machine Learning with Python<br><br>☁️ Cloud Computing fundamentals and DevOps tools<br><br>
+- 🌱 I’m currently learning<br><br>🌐 React.js + Next.js<br><br>🧩 Spring Boot + Spring Security + JWT<br><br>🚀 Express.js + MongoDB<br><br>🧠 Basics of Machine Learning with Python<br><br>☁️ Cloud Computing fundamentals and DevOps tools<br><br>
 
 - 👨‍💻 All of my projects are available at [https://prtyush.netlify.app/](https://prtyush.netlify.app/)
 
