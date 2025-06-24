@@ -67,5 +67,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=its-pratyushpandey&icon=0&color=0)](https://visitcount.itsvg.in)
-
+![snake gif](https://github.com/its-pratyushpandey/its-pratyushpandey/blob/output/github-snake-dark.svg)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
