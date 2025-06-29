@@ -1,4 +1,4 @@
-![logo](https://github.com/its-pratyushpandey/its-pratyushpandey/blob/main/github-header-image%20(13).png)
+![logo](https://github.com/its-pratyushpandey/its-pratyushpandey/blob/main/github-header-image%20(14).png)
 
 <h1 align="center">Hi 👋, I'm Pratyush Kumar Pandey</h1>
 <h3 align="center">🚀A passionate Full Stack Developer from India</h3>
