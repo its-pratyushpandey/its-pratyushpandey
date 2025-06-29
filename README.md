@@ -1,3 +1,5 @@
+![logo](https://github.com/its-pratyushpandey/its-pratyushpandey/blob/main/github-header-image%20(9).png)
+
 <h1 align="center">Hi 👋, I'm Pratyush Kumar Pandey</h1>
 <h3 align="center">🚀A passionate Full Stack Developer from India</h3>
  <br>Building full-stack web applications using Spring Boot, React.js, and Express.js. Currently developing a secure, scalable e-commerce platform with authentication, RESTful APIs, and real-time features.<br><br>
