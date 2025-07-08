@@ -36,22 +36,47 @@
 
 	
 
-# 🚀Software Engineer | MERN Stack Expertise | India
+# 🚀Fullstack Developer | MERN Stack Expertise | India
 
- <br>Building full-stack web applications using Spring Boot, React.js, and Express.js. Currently developing a secure, scalable e-commerce platform with authentication, RESTful APIs, and real-time features.<br><br>
  
- <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
- 
-- 🔭 I’m currently working on [NextHire](https://drive.google.com/file/d/1zR70yqpvQ_8vCeJV2hscfK78s2zgx6hl/view?usp=drive_link)
+👋 **Hi, I'm Pratyush Pandey**, a passionate full-stack web developer building scalable, secure applications using:
 
+- 🌐 **React.js**, **Next.js**, **Express.js**
+- 🔣 TypeScript + ESLint + Prettier workflows
+- 🧩 **MongoDB**, **MySQL**, **REST APIs**
+- 🔧 **Spring Boot**, **Spring Security**, **JWT Authentication**
+- ☁️ Exploring **Cloud Computing** & **DevOps Tools**
 
-- 🌱 I’m currently learning<br><br>🌐 React.js + Next.js<br><br>🧩 Spring Boot + Spring Security + JWT<br><br>🚀 Express.js + MongoDB<br><br>🧠 Basics of Machine Learning with Python<br><br>☁️ Cloud Computing fundamentals and DevOps tools<br><br>
+---
 
-- 👨‍💻 All of my projects are available at [https://prtyush.netlify.app/](https://prtyush.netlify.app/)
+### 🛠️ Current Projects
 
-- 📫 How to reach me  📧 pratyush.me.ai@gmail.com 
+- 🚧 **[NextHire](https://drive.google.com/file/d/1zR70yqpvQ_8vCeJV2hscfK78s2zgx6hl/view?usp=drive_link)** — A secure, scalable e-commerce platform with:
+  - 🔐 Role-based authentication
+  - ⚙️ RESTful APIs
+  - 📦 Realtime features and microservices approach
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1WFIrbopURE5SHz8nAkPmEmqe9QfWZJlF/view?usp=drive_link](https://drive.google.com/file/d/1WFIrbopURE5SHz8nAkPmEmqe9QfWZJlF/view?usp=drive_link)
+---
+
+### 📚 Currently Learning
+
+- 🧠 React.js + Next.js  
+- 🧩 Spring Boot, Spring Security, JWT  
+- ⚙️ Express.js + MongoDB  
+- 📈 Basics of Machine Learning (Python)  
+- ☁️ DevOps Tools & Cloud Fundamentals  
+
+---
+
+### 🌐 Portfolio & Resources
+
+- 🔗 **Portfolio**: [prtyush.netlify.app](https://prtyush.netlify.app/)
+- 📄 **Resume**: [View Here](https://drive.google.com/file/d/1WFIrbopURE5SHz8nAkPmEmqe9QfWZJlF/view?usp=drive_link)
+- 📧 **Reach Me**: pratyush.me.ai@gmail.com
+
+---
+
+### 💡 Fun Fact
 
 - ⚡ Fun fact **I turn complex code into clean, scalable apps — and still manage to laugh at my own debugging jokes. 😄**
 
