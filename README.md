@@ -51,20 +51,24 @@
 
 ### 🛠️ Current Projects
 
-- 🚧 **[NextHire](https://drive.google.com/file/d/1zR70yqpvQ_8vCeJV2hscfK78s2zgx6hl/view?usp=drive_link)** — A secure, scalable e-commerce platform with:
-  - 🔐 Role-based authentication
-  - ⚙️ RESTful APIs
-  - 📦 Realtime features and microservices approach
+🚧 NextHire — AI-powered job portal with:
 
+💬 Real-time chat app
+
+🧠 Integrated AI assistant
+
+🤖 Mock interview system
+
+📊 AI job recommendations
 ---
 
 ### 📚 Currently Learning
 
-- 🧠 React.js + Next.js  
-- 🧩 Spring Boot, Spring Security, JWT  
-- ⚙️ Express.js + MongoDB  
+- 🧠 Typescript, Next.js  
+- 🧩 Spring Boot, Spring Security
+- ⚙️ Express.js and NLP
 - 📈 Basics of Machine Learning (Python)  
-- ☁️ DevOps Tools & Cloud Fundamentals  
+  
 
 ---
 
