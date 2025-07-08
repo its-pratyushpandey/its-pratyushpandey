@@ -1,6 +1,8 @@
 ![logo](https://github.com/its-pratyushpandey/its-pratyushpandey/blob/main/remove_watermark_image_20250629_212129.png)
 
 <h1 align="center">Hi 👋, I'm Pratyush Kumar Pandey</h1>
+
+[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/klu2300030557)
 <h3 align="center">🚀A passionate Full Stack Developer from India</h3>
  <br>Building full-stack web applications using Spring Boot, React.js, and Express.js. Currently developing a secure, scalable e-commerce platform with authentication, RESTful APIs, and real-time features.<br><br>
  
