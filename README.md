@@ -65,6 +65,8 @@
 🤖 Mock interview system
 
 📊 AI job recommendations
+
+
 ---
 
 ### 📚 Currently Learning
