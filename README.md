@@ -1,5 +1,10 @@
 ![logo](https://github.com/its-pratyushpandey/its-pratyushpandey/blob/main/remove_watermark_image_20250629_212129.png)
 
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=4F8EF7&center=true&vCenter=true&width=550&lines=Hi+there%2C+I'm+Pratyush+Pandey+%F0%9F%91%8B;Fullstack+%E2%9A%99%EF%B8%8F+MERN+%7C+Spring+%7C+AI+Engineer;Open+Source+%E2%9C%A8+%7C+Tech+Explorer+%F0%9F%9A%80" alt="Typing SVG" />
+</h1>
+
 <h1 align="left">Hi there, I'm Pratyush Pandey 👋</h1>
 <p align="center">
 
@@ -79,10 +84,9 @@
 - 📧 **Reach Me**: pratyush.me.ai@gmail.com
 
 ---
+### 😄 **Fun Fact**
 
-### 💡 Fun Fact
-
-- ⚡ Fun fact **I turn complex code into clean, scalable apps — and still manage to laugh at my own debugging jokes. 😄**
+> _I turn complex code into clean, scalable apps — and still manage to laugh at my own debugging jokes._
 
 
 <h3 align="left">Connect with me:</h3>
@@ -156,45 +160,53 @@ AI-integrated Web Applications
 
 
 
+## 📊 GitHub Stats & Animations
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=its-pratyushpandey&theme=algolia&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=its-pratyushpandey&theme=algolia&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=its-pratyushpandey&theme=algolia&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=its-pratyushpandey&theme=algolia&hide_border=false&include_all_commits=true&count_private=false" height="170"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=its-pratyushpandey&theme=algolia&hide_border=false" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-pratyushpandey&theme=algolia&hide_border=false&layout=compact" height="170"/>
+</div>
 
 ### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=its-pratyushpandey&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=its-pratyushpandey&theme=algolia&no-frame=false&no-bg=false&margin-w=4"/>
+</p>
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=its-pratyushpandey&limit=5&theme=algolia&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=its-pratyushpandey&limit=5&theme=algolia&combine_all_yearly_contributions=true"/>
+</p>
 
 
+---
 
 <h2 align="center">🚀 Selected Works 👨‍💻</h2>
 
-### 🔹 [NextHire - AI-based Hiring Platform](https://github.com/its-pratyushpandey/NextHire)
-[![NextHire](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=its-pratyushpandey&repo=NextHire&theme=radical)](https://github.com/its-pratyushpandey/NextHire)
+<p align="center">
+  <a href="https://github.com/its-pratyushpandey/NextHire">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=its-pratyushpandey&repo=NextHire&theme=radical"/>
+  </a>
+  <a href="https://github.com/its-pratyushpandey/Codivue">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=its-pratyushpandey&repo=Codivue&theme=radical"/>
+  </a>
+  <a href="https://github.com/its-pratyushpandey/CodeSync">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=its-pratyushpandey&repo=CodeSync&theme=radical"/>
+  </a>
+  <a href="https://github.com/its-pratyushpandey/Matefy">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=its-pratyushpandey&repo=Matefy&theme=radical"/>
+  </a>
+  <a href="https://github.com/its-pratyushpandey/Intellia">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=its-pratyushpandey&repo=Intellia&theme=radical"/>
+  </a>
+  <a href="https://github.com/its-pratyushpandey/Resumora">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=its-pratyushpandey&repo=Resumora&theme=radical"/>
+  </a>
+  <a href="https://github.com/its-pratyushpandey/Codewave">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=its-pratyushpandey&repo=Codewave&theme=radical"/>
+  </a>
+</p>
 
-### 🔹 [Codivue - Collaborative Code Sharing Platform](https://github.com/its-pratyushpandey/Codivue)
-[![Codivue](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=its-pratyushpandey&repo=Codivue&theme=radical)](https://github.com/its-pratyushpandey/Codivue)
-
-### 🔹 [CodeSync - Real-time Code Editor with Chat](https://github.com/its-pratyushpandey/CodeSync)
-[![CodeSync](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=its-pratyushpandey&repo=CodeSync&theme=radical)](https://github.com/its-pratyushpandey/CodeSync)
-
-### 🔹 [Matefy - AI Mental Health Chat Companion](https://github.com/its-pratyushpandey/Matefy)
-[![Matefy](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=its-pratyushpandey&repo=Matefy&theme=radical)](https://github.com/its-pratyushpandey/Matefy)
-
-### 🔹 [Intellia - Smart Virtual Assistant (AI/NLP)](https://github.com/its-pratyushpandey/Intellia)
-[![Intellia](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=its-pratyushpandey&repo=Intellia&theme=radical)](https://github.com/its-pratyushpandey/Intellia)
-
-### 🔹 [Resumora - AI Resume Analyzer & Builder](https://github.com/its-pratyushpandey/Resumora)
-[![Resumora](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=its-pratyushpandey&repo=Resumora&theme=radical)](https://github.com/its-pratyushpandey/Resumora)
-
-### 🔹 [Codewave - Live Code Streaming Platform](https://github.com/its-pratyushpandey/Codewave)
-[![Codewave](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=its-pratyushpandey&repo=Codewave&theme=radical)](https://github.com/its-pratyushpandey/Codewave)
+---
 
 ---
 [![](https://visitcount.itsvg.in/api?id=its-pratyushpandey&icon=0&color=0)](https://visitcount.itsvg.in)
