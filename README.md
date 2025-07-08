@@ -131,7 +131,7 @@
 
 
 
-<h2 align="center">🚀 My Projects 👨‍💻</h2>
+<h2 align="center">🚀 Selected Works 👨‍💻</h2>
 
 ### 🔹 [NextHire - AI-based Hiring Platform](https://github.com/its-pratyushpandey/NextHire)
 [![NextHire](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=its-pratyushpandey&repo=NextHire&theme=radical)](https://github.com/its-pratyushpandey/NextHire)
