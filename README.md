@@ -1,22 +1,28 @@
 ![logo](https://github.com/its-pratyushpandey/its-pratyushpandey/blob/main/remove_watermark_image_20250629_212129.png)
 
 <h1 align="left">Hi there, I'm Pratyush Pandey - FullStack Developer!! 👋</h1>
+<p align="center">
 
-[![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)]()
-[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/klu2300030557)
-[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)]()
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)]()
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)]()
-[![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)]()	
-<p align="left">
+  <!-- Profile Links -->
+  <a href="#"><img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef" /></a>
+  <a href="https://www.hackerrank.com/profile/klu2300030557"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" alt="GeeksForGeeks" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to blog" /></a>
+  <br><br>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio" /></a>
   <a href="https://github.com/its-pratyushpandey?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/its-pratyushpandey"/></a>
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/its-pratyushpandey"/>
+  </a>
   <a href="https://github.com/its-pratyushpandey?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/its-pratyushpandey?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/its-pratyushpandey?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+  </a>
   <a href="https://github.com/its-pratyushpandey?tab=followers">
-  <img src="https://komarev.com/ghpvc/?username=its-pratyushpandey&label=Profile%20views&color=0e75b6&style=flat" alt="reddevill007" /> </a>
-  <a href="https://wakatime.com/@6272f51b-f805-4bdd-848f-e3a45d99fcf4"><img src="https://wakatime.com/badge/user/6272f51b-f805-4bdd-848f-e3a45d99fcf4.svg" alt="Total time coded since Nov 20 2022" /></a>
+    <img src="https://komarev.com/ghpvc/?username=its-pratyushpandey&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  </a>
+
 </p>
+
 
 	
 
