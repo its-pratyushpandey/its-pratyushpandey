@@ -18,14 +18,14 @@
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to Blog" />
   </a>
   <br><br>
-  <a href="https://www.linkedin.com/in/your-linkedin-id/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+ <a href="https://www.linkedin.com/in/pratyush-pandey1"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/its-pratyushpandey?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/its-pratyushpandey"/>
   </a>
   <a href="https://github.com/its-pratyushpandey?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/its-pratyushpandey?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
   </a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio" /></a>
+  <a href="https://prtyush.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=%23FF7139" alt="Portfolio" /></a>
   <a href="https://github.com/its-pratyushpandey?tab=followers">
     <img src="https://komarev.com/ghpvc/?username=its-pratyushpandey&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   </a>
