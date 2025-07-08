@@ -129,6 +129,31 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=its-pratyushpandey&limit=5&theme=algolia&combine_all_yearly_contributions=true)
 
+
+
+<h2 align="center">🚀 My Projects 👨‍💻</h2>
+
+### 🔹 [NextHire - AI-based Hiring Platform](https://github.com/its-pratyushpandey/NextHire)
+[![NextHire](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=its-pratyushpandey&repo=NextHire&theme=radical)](https://github.com/its-pratyushpandey/NextHire)
+
+### 🔹 [Codivue - Collaborative Code Sharing Platform](https://github.com/its-pratyushpandey/Codivue)
+[![Codivue](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=its-pratyushpandey&repo=Codivue&theme=radical)](https://github.com/its-pratyushpandey/Codivue)
+
+### 🔹 [CodeSync - Real-time Code Editor with Chat](https://github.com/its-pratyushpandey/CodeSync)
+[![CodeSync](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=its-pratyushpandey&repo=CodeSync&theme=radical)](https://github.com/its-pratyushpandey/CodeSync)
+
+### 🔹 [Matefy - AI Mental Health Chat Companion](https://github.com/its-pratyushpandey/Matefy)
+[![Matefy](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=its-pratyushpandey&repo=Matefy&theme=radical)](https://github.com/its-pratyushpandey/Matefy)
+
+### 🔹 [Intellia - Smart Virtual Assistant (AI/NLP)](https://github.com/its-pratyushpandey/Intellia)
+[![Intellia](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=its-pratyushpandey&repo=Intellia&theme=radical)](https://github.com/its-pratyushpandey/Intellia)
+
+### 🔹 [Resumora - AI Resume Analyzer & Builder](https://github.com/its-pratyushpandey/Resumora)
+[![Resumora](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=its-pratyushpandey&repo=Resumora&theme=radical)](https://github.com/its-pratyushpandey/Resumora)
+
+### 🔹 [Codewave - Live Code Streaming Platform](https://github.com/its-pratyushpandey/Codewave)
+[![Codewave](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=its-pratyushpandey&repo=Codewave&theme=radical)](https://github.com/its-pratyushpandey/Codewave)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=its-pratyushpandey&icon=0&color=0)](https://visitcount.itsvg.in)
 ![snake gif](https://github.com/its-pratyushpandey/its-pratyushpandey/blob/output/github-snake-dark.svg)
