@@ -4,9 +4,8 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=4F8EF7&center=true&vCenter=true&width=550&lines=Hi+there%2C+I'm+Pratyush+Pandey+%F0%9F%91%8B;Fullstack+%E2%9A%99%EF%B8%8F+MERN+%7C+Spring+%7C+AI+Engineer;Open+Source+%E2%9C%A8+%7C+Tech+Explorer+%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
-<img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="150">
 
-<h1 align="left">Hi there, I'm Pratyush Pandey 👋</h1>
+
 <p align="center">
 
   <p align="center">
