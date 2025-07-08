@@ -95,10 +95,21 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/pratyushpandey_1)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=%23FF7139)](https://prtyush.netlify.app/)
 
+---
+### 🤝 Looking to Collaborate On
+🚀 Innovative projects involving:
 
- 
-🤝 I’m looking to collaborate on<br>Innovative projects involving MERN stack, Spring Boot APIs, microservices, or AI-integrated web apps. Open to team-based hackathons and open-source contributions.<br><br>🧠 I’m looking for help with<br>Advanced backend architecture, CI/CD pipelines, containerization using Docker, and cloud deployment (AWS/GCP).<br><br>💬 Ask me about<br><br>Full-stack development best practices<br><br>Building RESTful APIs with Java & Node.js<br><br>Clean UI with React + Material UI + Framer Motion<br><br>Frontend state management using Context API / Redux<br><br>
+MERN Stack
 
+Spring Boot APIs
+
+Microservices Architecture
+
+AI-integrated Web Applications
+
+🤖 Open to hackathons, team collaborations, and open-source contributions
+
+---
 
 ## Languages and Tools ⚙️
 
