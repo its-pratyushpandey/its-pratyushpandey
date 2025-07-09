@@ -183,9 +183,31 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=its-pratyushpandey&limit=5&theme=algolia&combine_all_yearly_contributions=true"/>
 </p>
 
-<!-- Simple Colored Wave Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" height="100%">
 
+<h2 align="center">🚀 Selected Works 👨‍💻</h2>
+<p align="center">
+  <a href="https://github.com/its-pratyushpandey/NextHire">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=its-pratyushpandey&repo=NextHire&theme=radical"/>
+  </a>
+  <a href="https://github.com/its-pratyushpandey/Matefy">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=its-pratyushpandey&repo=Matefy&theme=radical"/>
+  </a>
+  <a href="https://github.com/its-pratyushpandey/Intellia">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=its-pratyushpandey&repo=Intellia&theme=radical"/>
+  </a>
+  <a href="https://github.com/its-pratyushpandey/Codivue">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=its-pratyushpandey&repo=Codivue&theme=radical"/>
+  </a>
+  <a href="https://github.com/its-pratyushpandey/Resumora">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=its-pratyushpandey&repo=Resumora&theme=radical"/>
+  </a>
+  <a href="https://github.com/its-pratyushpandey/Codewave">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=its-pratyushpandey&repo=Codewave&theme=radical"/>
+  </a>
+  <a href="https://github.com/its-pratyushpandey/CodeSync">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=its-pratyushpandey&repo=CodeSync&theme=radical"/>
+  </a>
+</p>
 
 
 [![](https://visitcount.itsvg.in/api?id=its-pratyushpandey&icon=0&color=0)](https://visitcount.itsvg.in)
