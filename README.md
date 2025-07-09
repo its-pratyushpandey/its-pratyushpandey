@@ -66,8 +66,7 @@
   - 💬 Real-time chat, 🧠 AI assistant, 🤖 Mock interviews, 📊 AI job recommendations
 
 
-<!-- 2. Simple Gray Wave -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" height="100%">
+
 
 ### 📚 Currently Learning
 
@@ -84,12 +83,11 @@
 - **Resume:** [View Here](https://drive.google.com/file/d/1WFIrbopURE5SHz8nAkPmEmqe9QfWZJlF/view?usp=drive_link)
 - **Email:** pratyush.me.ai@gmail.com
 
-<!-- 2. Simple Gray Wave -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" height="100%">
 
 ### 😄 **Fun Fact**
 
 > _I turn complex code into clean, scalable apps — and still manage to laugh at my own debugging jokes._
+
 <!-- 2. Simple Gray Wave -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" height="100%">
 
@@ -115,8 +113,7 @@
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=%23FF7139" alt="Portfolio"/>
   </a>
 </p>
-<!-- 2. Simple Gray Wave -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" height="100%">
+
 
 ## 🤝 Looking to Collaborate On
 
@@ -180,15 +177,13 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=its-pratyushpandey&theme=algolia&hide_border=false" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-pratyushpandey&theme=algolia&hide_border=false&layout=compact" height="170"/>
 </div>
-<!-- 2. Simple Gray Wave -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" height="100%">
+
 
 ### 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=its-pratyushpandey&theme=algolia&no-frame=false&no-bg=false&margin-w=4"/>
 </p>
-<!-- 2. Simple Gray Wave -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" height="100%">
+
 
  🔝 Top Contributed Repo
 <p align="center">
