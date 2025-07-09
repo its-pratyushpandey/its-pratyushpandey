@@ -51,9 +51,6 @@
 - 🔧 **Spring Boot**, **Spring Security**, **JWT Authentication**
 - ☁️ Exploring **Cloud Computing** & **DevOps Tools**
 
-<!-- Simple Colored Wave Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" height="100%">
-
 ### 🏗️ Current Projects
 
 - **NextHire:** AI-powered job portal  
@@ -64,8 +61,6 @@
 - TypeScript | Next.js | Advanced Spring Boot & Security
 - Express.js | NLP | Machine Learning (Python)
 
-<!-- Simple Colored Wave Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" height="100%">
 
 ### 🌐 Portfolio & Resources
 
@@ -77,8 +72,6 @@
 
 > _I turn complex code into clean, scalable apps — and still manage to laugh at my own debugging jokes._
 
-<!-- Simple Colored Wave Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" height="100%">
 
 <h3 align="center">Connect with Me</h3>
 <p align="center">
@@ -217,9 +210,6 @@
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=its-pratyushpandey&repo=CodeSync&theme=radical"/>
   </a>
 </p>
-
-<!-- Simple Colored Wave Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" height="100%">
 
 [![](https://visitcount.itsvg.in/api?id=its-pratyushpandey&icon=0&color=0)](https://visitcount.itsvg.in)
 ![snake gif](https://github.com/its-pratyushpandey/its-pratyushpandey/blob/output/github-snake-dark.svg)
