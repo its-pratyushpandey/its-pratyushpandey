@@ -8,8 +8,6 @@
 <p align="center">
 
   <p align="center">
-
-  <!-- Coding Profiles & Links -->
  <a href="https://www.codechef.com/users/kl_2300030557"><img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef" /></a>
   <a href="https://www.hackerrank.com/profile/klu2300030557"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" /></a>
   <a href="https://auth.geeksforgeeks.org/user/user_dm4ubxhqh8u" target="_blank">
