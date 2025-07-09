@@ -54,34 +54,25 @@
 
 ---
 
-### 🛠️ Current Projects
+### 🏗️ Current Projects
 
-🚧 NextHire — AI-powered job portal with:
+- **NextHire:** AI-powered job portal  
+  - 💬 Real-time chat, 🧠 AI assistant, 🤖 Mock interviews, 📊 AI job recommendations
 
-💬 Real-time chat app
-
-🧠 Integrated AI assistant
-
-🤖 Mock interview system
-
-📊 AI job recommendations
 ---
 
 ### 📚 Currently Learning
 
-- 🧠 Typescript, Next.js  
-- 🧩 Spring Boot, Spring Security
-- ⚙️ Express.js and NLP
-- 📈 Basics of Machine Learning (Python)  
-  
+- TypeScript | Next.js | Advanced Spring Boot & Security
+- Express.js | NLP | Machine Learning (Python)
 
 ---
 
 ### 🌐 Portfolio & Resources
 
-- 🔗 **Portfolio**: [prtyush.netlify.app](https://prtyush.netlify.app/)
-- 📄 **Resume**: [View Here](https://drive.google.com/file/d/1WFIrbopURE5SHz8nAkPmEmqe9QfWZJlF/view?usp=drive_link)
-- 📧 **Reach Me**: pratyush.me.ai@gmail.com
+- **Portfolio:** [prtyush.netlify.app](https://prtyush.netlify.app/)
+- **Resume:** [View Here](https://drive.google.com/file/d/1WFIrbopURE5SHz8nAkPmEmqe9QfWZJlF/view?usp=drive_link)
+- **Email:** pratyush.me.ai@gmail.com
 
 ---
 ### 😄 **Fun Fact**
@@ -180,23 +171,25 @@
   <a href="https://github.com/its-pratyushpandey/NextHire">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=its-pratyushpandey&repo=NextHire&theme=radical"/>
   </a>
-  <a href="https://github.com/its-pratyushpandey/Codivue">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=its-pratyushpandey&repo=Codivue&theme=radical"/>
-  </a>
-  <a href="https://github.com/its-pratyushpandey/CodeSync">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=its-pratyushpandey&repo=CodeSync&theme=radical"/>
-  </a>
+ 
+  
   <a href="https://github.com/its-pratyushpandey/Matefy">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=its-pratyushpandey&repo=Matefy&theme=radical"/>
   </a>
   <a href="https://github.com/its-pratyushpandey/Intellia">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=its-pratyushpandey&repo=Intellia&theme=radical"/>
   </a>
+   <a href="https://github.com/its-pratyushpandey/Codivue">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=its-pratyushpandey&repo=Codivue&theme=radical"/>
+  </a>
   <a href="https://github.com/its-pratyushpandey/Resumora">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=its-pratyushpandey&repo=Resumora&theme=radical"/>
   </a>
   <a href="https://github.com/its-pratyushpandey/Codewave">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=its-pratyushpandey&repo=Codewave&theme=radical"/>
+  </a>
+	<a href="https://github.com/its-pratyushpandey/CodeSync">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=its-pratyushpandey&repo=CodeSync&theme=radical"/>
   </a>
 </p>
 
