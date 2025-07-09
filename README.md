@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=4F8EF7&center=true&vCenter=true&width=550&lines=Hi+there%2C+I'm+Pratyush+Pandey+%F0%9F%91%8B;Fullstack+%E2%9A%99%EF%B8%8F+MERN+%7C+Spring+%7C+AI+Engineer;Open+Source+%E2%9C%A8+%7C+Tech+Explorer+%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
 
-
+<h1 align="left">Hi there, I'm Pratyush Pandey 👋</h1>
 <p align="center">
 
   <p align="center">
@@ -65,8 +65,6 @@
 🤖 Mock interview system
 
 📊 AI job recommendations
-
-
 ---
 
 ### 📚 Currently Learning
@@ -102,25 +100,19 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=%23FF7139)](https://prtyush.netlify.app/)
 
 ---
-### 🤝 Looking to Collaborate On
-🚀 Innovative projects involving:
 
-MERN Stack
+## 🤝 Looking to Collaborate On
 
-Spring Boot APIs
-
-Microservices Architecture
-
-AI-integrated Web Applications
-
-🤖 Open to hackathons, team collaborations, and open-source contributions
+- MERN Stack & Spring Boot APIs
+- Microservices Architecture
+- AI-integrated Web Apps
+- Hackathons | Open Source | Team Projects
 
 ---
 
-## Languages and Tools ⚙️
+## 🏅 Languages & Tools
 
-### 📋 Languages
-
+### 💻 Languages
 <p>
   <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -130,7 +122,7 @@ AI-integrated Web Applications
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-### 🧰 Frameworks and libraries
+### 🧰 Frameworks & Libraries
 <p> 
   <img alt="React" src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232a?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -149,14 +141,14 @@ AI-integrated Web Applications
 
 
 
-☁️ Deployment & Hosting
+### ☁️ Deployment & Hosting
 <p> <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/> <img alt="Render" src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/> <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/> <img alt="AWS" src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/> <img alt="DigitalOcean" src="https://img.shields.io/badge/DigitalOcean-0167ff?style=for-the-badge&logo=digitalOcean&logoColor=white"/> <img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/> </p>
 
-🗄️ Databases and cloud hosting
+### 🗄️ Databases
 
 <p> <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white"/> <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img alt="ArangoDB" src="https://img.shields.io/badge/ArangoDB-DDE072?style=for-the-badge&logo=arangodb&logoColor=white"/> <img alt="Amazon DynamoDB" src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white"/> <img alt="Firebase" src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white"/> </p>
 
-🧪 Tools & Platforms
+### 🛠️ Tools & Platforms
 <p> <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> <img alt="Git" src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/> <img alt="GitHub" src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/> <img alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/> <img alt="NPM" src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white"/> </p>
 
 
@@ -174,7 +166,7 @@ AI-integrated Web Applications
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=its-pratyushpandey&theme=algolia&no-frame=false&no-bg=false&margin-w=4"/>
 </p>
-🔝 Top Contributed Repo
+### 🔝 Top Contributed Repo
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=its-pratyushpandey&limit=5&theme=algolia&combine_all_yearly_contributions=true"/>
 </p>
@@ -188,13 +180,14 @@ AI-integrated Web Applications
   <a href="https://github.com/its-pratyushpandey/NextHire">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=its-pratyushpandey&repo=NextHire&theme=radical"/>
   </a>
-  
-  
-  <a href="https://github.com/its-pratyushpandey/Matefy">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=its-pratyushpandey&repo=Matefy&theme=radical"/>
-  </a>
   <a href="https://github.com/its-pratyushpandey/Codivue">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=its-pratyushpandey&repo=Codivue&theme=radical"/>
+  </a>
+  <a href="https://github.com/its-pratyushpandey/CodeSync">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=its-pratyushpandey&repo=CodeSync&theme=radical"/>
+  </a>
+  <a href="https://github.com/its-pratyushpandey/Matefy">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=its-pratyushpandey&repo=Matefy&theme=radical"/>
   </a>
   <a href="https://github.com/its-pratyushpandey/Intellia">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=its-pratyushpandey&repo=Intellia&theme=radical"/>
@@ -204,9 +197,6 @@ AI-integrated Web Applications
   </a>
   <a href="https://github.com/its-pratyushpandey/Codewave">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=its-pratyushpandey&repo=Codewave&theme=radical"/>
-  </a>
-   <a href="https://github.com/its-pratyushpandey/CodeSync">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=its-pratyushpandey&repo=CodeSync&theme=radical"/>
   </a>
 </p>
 
