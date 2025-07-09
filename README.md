@@ -174,7 +174,7 @@ AI-integrated Web Applications
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=its-pratyushpandey&theme=algolia&no-frame=false&no-bg=false&margin-w=4"/>
 </p>
-### 🔝 Top Contributed Repo
+🔝 Top Contributed Repo
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=its-pratyushpandey&limit=5&theme=algolia&combine_all_yearly_contributions=true"/>
 </p>
@@ -188,14 +188,13 @@ AI-integrated Web Applications
   <a href="https://github.com/its-pratyushpandey/NextHire">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=its-pratyushpandey&repo=NextHire&theme=radical"/>
   </a>
-  <a href="https://github.com/its-pratyushpandey/Codivue">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=its-pratyushpandey&repo=Codivue&theme=radical"/>
-  </a>
-  <a href="https://github.com/its-pratyushpandey/CodeSync">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=its-pratyushpandey&repo=CodeSync&theme=radical"/>
-  </a>
+  
+  
   <a href="https://github.com/its-pratyushpandey/Matefy">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=its-pratyushpandey&repo=Matefy&theme=radical"/>
+  </a>
+  <a href="https://github.com/its-pratyushpandey/Codivue">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=its-pratyushpandey&repo=Codivue&theme=radical"/>
   </a>
   <a href="https://github.com/its-pratyushpandey/Intellia">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=its-pratyushpandey&repo=Intellia&theme=radical"/>
@@ -205,6 +204,9 @@ AI-integrated Web Applications
   </a>
   <a href="https://github.com/its-pratyushpandey/Codewave">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=its-pratyushpandey&repo=Codewave&theme=radical"/>
+  </a>
+   <a href="https://github.com/its-pratyushpandey/CodeSync">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=its-pratyushpandey&repo=CodeSync&theme=radical"/>
   </a>
 </p>
 
