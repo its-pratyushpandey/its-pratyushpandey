@@ -3,6 +3,21 @@
 
 
 
+<!-- Professional SVG Dividers for README.md -->
+
+
+
+<!-- 2. Simple Gray Wave -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" height="100%">
+
+
+
+<!-- 6. Colorful Blobs (for Section Break) -->
+<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner7.png" width="100%" height="100%">
+
+<!-- End of SVG Dividers -->
+
+
 
 
 
@@ -26,6 +41,8 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=4F8EF7&center=true&vCenter=true&width=550&lines=Hi+there%2C+I'm+Pratyush+Pandey+%F0%9F%91%8B;Fullstack+%E2%9A%99%EF%B8%8F+MERN+%7C+Spring+%7C+AI+Engineer;Open+Source+%E2%9C%A8+%7C+Tech+Explorer+%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
+
+
 
 <p align="center">
 
@@ -60,7 +77,8 @@
 
 <img align="right" alt="coding" width="350" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 	
-
+<!-- 2. Simple Gray Wave -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" height="100%">
 # 🚀Fullstack Developer | MERN Stack Expertise | India
 
  
@@ -72,21 +90,27 @@
 - 🔧 **Spring Boot**, **Spring Security**, **JWT Authentication**
 - ☁️ Exploring **Cloud Computing** & **DevOps Tools**
 
----
+
+<!-- 2. Simple Gray Wave -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" height="100%">
 
 ### 🏗️ Current Projects
 
 - **NextHire:** AI-powered job portal  
   - 💬 Real-time chat, 🧠 AI assistant, 🤖 Mock interviews, 📊 AI job recommendations
 
----
+
+<!-- 2. Simple Gray Wave -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" height="100%">
 
 ### 📚 Currently Learning
 
 - TypeScript | Next.js | Advanced Spring Boot & Security
 - Express.js | NLP | Machine Learning (Python)
 
----
+
+<!-- 2. Simple Gray Wave -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" height="100%">
 
 ### 🌐 Portfolio & Resources
 
@@ -94,10 +118,14 @@
 - **Resume:** [View Here](https://drive.google.com/file/d/1WFIrbopURE5SHz8nAkPmEmqe9QfWZJlF/view?usp=drive_link)
 - **Email:** pratyush.me.ai@gmail.com
 
----
+<!-- 2. Simple Gray Wave -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" height="100%">
+
 ### 😄 **Fun Fact**
 
 > _I turn complex code into clean, scalable apps — and still manage to laugh at my own debugging jokes._
+<!-- 2. Simple Gray Wave -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" height="100%">
 
 <h3 align="center">Connect with Me</h3>
 
@@ -121,7 +149,8 @@
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=%23FF7139" alt="Portfolio"/>
   </a>
 </p>
-
+<!-- 2. Simple Gray Wave -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" height="100%">
 
 ## 🤝 Looking to Collaborate On
 
@@ -130,7 +159,8 @@
 - AI-integrated Web Apps
 - Hackathons | Open Source | Team Projects
 
----
+<!-- 2. Simple Gray Wave -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" height="100%">
 
 ## 🏅 Languages & Tools
 
@@ -173,7 +203,8 @@
 ### 🛠️ Tools & Platforms
 <p> <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> <img alt="Git" src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/> <img alt="GitHub" src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/> <img alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/> <img alt="NPM" src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white"/> </p>
 
-
+<!-- 2. Simple Gray Wave -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" height="100%">
 
 
 ## 📊 GitHub Stats & Animations
@@ -183,18 +214,24 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=its-pratyushpandey&theme=algolia&hide_border=false" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-pratyushpandey&theme=algolia&hide_border=false&layout=compact" height="170"/>
 </div>
+<!-- 2. Simple Gray Wave -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" height="100%">
 
 ### 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=its-pratyushpandey&theme=algolia&no-frame=false&no-bg=false&margin-w=4"/>
 </p>
-### 🔝 Top Contributed Repo
+<!-- 2. Simple Gray Wave -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" height="100%">
+
+ 🔝 Top Contributed Repo
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=its-pratyushpandey&limit=5&theme=algolia&combine_all_yearly_contributions=true"/>
 </p>
 
 
----
+<!-- 2. Simple Gray Wave -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" height="100%">
 
 <h2 align="center">🚀 Selected Works 👨‍💻</h2>
 
@@ -224,9 +261,11 @@
   </a>
 </p>
 
----
 
----
+
+<!-- 2. Simple Gray Wave -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" height="100%">
+
 [![](https://visitcount.itsvg.in/api?id=its-pratyushpandey&icon=0&color=0)](https://visitcount.itsvg.in)
 ![snake gif](https://github.com/its-pratyushpandey/its-pratyushpandey/blob/output/github-snake-dark.svg)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
