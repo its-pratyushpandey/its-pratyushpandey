@@ -1,42 +1,107 @@
-<svg fill="none" width="100%"  xmlns="http://www.w3.org/2000/svg">
- <foreignObject width="100%" height="100%">
-  <div xmlns="http://www.w3.org/1999/xhtml">
+<svg fill="none" width="100%" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
         .wrapper {
           height: 100vh;
-          display: grid;
-          place-items: center;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          flex-direction: column;
         }
 
-        .text {
-          width: 9ch;
-          animation: typing 1.5s steps(9), blink .5s step-end infinite alternate;
-          white-space: nowrap;
-          overflow: hidden;
-          border-right: 3px solid;
-          font-family: monospace;
-          font-size: 4em;
-          background: linear-gradient(90deg, rgba(0,241,220,1) 0%, rgba(86,115,241,1) 44%, rgba(103,68,241,1) 54%, rgba(254,0,255,1) 100%);
+        .typewriter {
+          font-family: 'Fira Code', monospace;
+          font-size: 2.2em;
+          width: 37ch;
+          min-height: 2.6em;
+          background: linear-gradient(90deg, #00f1dc 0%, #5673f1 44%, #6744f1 54%, #fe00ff 100%);
           -webkit-background-clip: text;
           -webkit-text-fill-color: transparent;
+          white-space: nowrap;
+          border-right: .13em solid #fe00ff;
+          overflow: hidden;
+          animation: typing 2.5s steps(37, end), blink-caret 0.75s step-end infinite alternate;
+          margin-bottom: 0.2em;
         }
 
+        .typewriter2 {
+          font-family: 'Fira Code', monospace;
+          font-size: 1.25em;
+          width: 38ch;
+          min-height: 1.4em;
+          background: linear-gradient(90deg, #4F8EF7 0%, #00f1dc 60%, #fe00ff 100%);
+          -webkit-background-clip: text;
+          -webkit-text-fill-color: transparent;
+          white-space: nowrap;
+          border-right: .13em solid #4F8EF7;
+          overflow: hidden;
+          animation: typing2 2.5s steps(38, end) 2.7s forwards, blink-caret2 0.75s step-end infinite alternate 2.7s;
+          opacity: 0;
+          animation-delay: 2.7s;
+        }
+
+        .typewriter3 {
+          font-family: 'Fira Code', monospace;
+          font-size: 1.25em;
+          width: 38ch;
+          min-height: 1.4em;
+          background: linear-gradient(90deg, #fe00ff 0%, #6744f1 50%, #5673f1 100%);
+          -webkit-background-clip: text;
+          -webkit-text-fill-color: transparent;
+          white-space: nowrap;
+          border-right: .13em solid #6744f1;
+          overflow: hidden;
+          animation: typing3 2.5s steps(38, end) 5.7s forwards, blink-caret3 0.75s step-end infinite alternate 5.7s;
+          opacity: 0;
+          animation-delay: 5.7s;
+        }
+
+        /* Keyframes for typing effect */
         @keyframes typing {
-          from {
-            width: 0
-          }
+          from { width: 0 }
+          to { width: 37ch }
+        }
+        @keyframes blink-caret {
+          0%,100% { border-color: transparent }
+          50% { border-color: #fe00ff; }
         }
 
-        @keyframes blink {
-          from, to { border-color: transparent }
-          50% { border-color: rgba(254,0,255,1); }
+        @keyframes typing2 {
+          from { width: 0; opacity: 1; }
+          to { width: 38ch; opacity: 1; }
+        }
+        @keyframes blink-caret2 {
+          0%,100% { border-color: transparent }
+          50% { border-color: #4F8EF7; }
+        }
+
+        @keyframes typing3 {
+          from { width: 0; opacity: 1; }
+          to { width: 38ch; opacity: 1; }
+        }
+        @keyframes blink-caret3 {
+          0%,100% { border-color: transparent }
+          50% { border-color: #6744f1; }
+        }
+
+        /* Reveal the next line after animation */
+        .typewriter2,
+        .typewriter3 {
+          opacity: 1;
+        }
+        .typewriter2 {
+          animation-fill-mode: forwards;
+        }
+        .typewriter3 {
+          animation-fill-mode: forwards;
         }
       </style>
       <div class="wrapper">
-        <div class="text">
-          CodeFlow.
-        </div>
+        <div class="typewriter">Hi there, I'm Pratyush Pandey 👋</div>
+        <div class="typewriter2">Fullstack ⚙️ MERN | Spring | AI Engineer</div>
+        <div class="typewriter3">Open Source ✨ | Tech Explorer 🚀</div>
       </div>
-  </div>
- </foreignObject>
+    </div>
+  </foreignObject>
 </svg>
