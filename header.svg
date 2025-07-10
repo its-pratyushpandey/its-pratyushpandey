@@ -1,84 +1,275 @@
-<svg fill="none" width="100%" height="100vh" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">
+<svg fill="none" width="100%" height="400" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400">
+ <defs>
+   <!-- Gradient definitions -->
+   <linearGradient id="gradient1" x1="0%" y1="0%" x2="100%" y2="0%">
+     <stop offset="0%" style="stop-color:#00F1DC;stop-opacity:1" />
+     <stop offset="44%" style="stop-color:#5673F1;stop-opacity:1" />
+     <stop offset="54%" style="stop-color:#6744F1;stop-opacity:1" />
+     <stop offset="100%" style="stop-color:#FE00FF;stop-opacity:1" />
+   </linearGradient>
+   
+   <linearGradient id="gradient2" x1="0%" y1="0%" x2="100%" y2="0%">
+     <stop offset="0%" style="stop-color:#4F8EF7;stop-opacity:1" />
+     <stop offset="50%" style="stop-color:#8B5CF6;stop-opacity:1" />
+     <stop offset="100%" style="stop-color:#06B6D4;stop-opacity:1" />
+   </linearGradient>
+
+   <!-- Glow filter -->
+   <filter id="glow">
+     <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+     <feMerge> 
+       <feMergeNode in="coloredBlur"/>
+       <feMergeNode in="SourceGraphic"/>
+     </feMerge>
+   </filter>
+ </defs>
+ 
+ <foreignObject width="100%" height="100%">
+  <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
-        body {
-          margin: 0;
-          padding: 0;
-        }
+        @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500;700&amp;display=swap');
+        
         .container {
-          min-height: 100vh;
+          width: 100%;
+          height: 400px;
           display: flex;
           flex-direction: column;
-          align-items: center;
           justify-content: center;
-          background: linear-gradient(135deg, #00f1dc 0%, #5673f1 44%, #6744f1 54%, #fe00ff 100%);
+          align-items: center;
+          background: linear-gradient(135deg, #0a0a0a 0%, #1a1a2e 50%, #16213e 100%);
+          padding: 20px;
           box-sizing: border-box;
-        }
-        .wrapper {
-          display: grid;
-          place-items: center;
-        }
-        .text {
-          width: 9ch;
-          animation: typing 1.5s steps(9), blink .5s step-end infinite alternate;
-          white-space: nowrap;
+          position: relative;
           overflow: hidden;
-          border-right: 3px solid;
-          font-family: monospace, 'Fira Code', 'Consolas', 'Menlo', 'Monaco', 'Courier New', monospace;
-          font-size: 4em;
-          background: linear-gradient(90deg, rgba(0,241,220,1) 0%, rgba(86,115,241,1) 44%, rgba(103,68,241,1) 54%, rgba(254,0,255,1) 100%);
+        }
+
+        .container::before {
+          content: '';
+          position: absolute;
+          top: 0;
+          left: 0;
+          right: 0;
+          bottom: 0;
+          background: radial-gradient(circle at 20% 50%, rgba(79, 142, 247, 0.1) 0%, transparent 50%),
+                      radial-gradient(circle at 80% 50%, rgba(254, 0, 255, 0.1) 0%, transparent 50%);
+          animation: backgroundPulse 4s ease-in-out infinite;
+        }
+
+        .main-title {
+          font-family: 'Fira Code', monospace;
+          font-size: clamp(2rem, 5vw, 4rem);
+          font-weight: 700;
+          background: linear-gradient(90deg, #00F1DC 0%, #5673F1 44%, #6744F1 54%, #FE00FF 100%);
           -webkit-background-clip: text;
           -webkit-text-fill-color: transparent;
-          margin-bottom: 24px;
-          margin-top: 0;
+          background-clip: text;
+          text-align: center;
+          margin-bottom: 20px;
+          animation: titleGlow 2s ease-in-out infinite alternate;
+          filter: drop-shadow(0 0 10px rgba(79, 142, 247, 0.3));
         }
-        @keyframes typing {
-          from { width: 0 }
-        }
-        @keyframes blink {
-          from, to { border-color: transparent }
-          50% { border-color: rgba(254,0,255,1); }
-        }
-        .headline {
+
+        .typing-container {
           width: 100%;
-          display: flex;
-          flex-direction: column;
-          align-items: center;
-          margin-bottom: 0;
+          max-width: 800px;
+          text-align: center;
+          margin-bottom: 15px;
         }
-        .headline img {
+
+        .typing-text {
+          font-family: 'Fira Code', monospace;
+          font-size: clamp(1rem, 2.5vw, 1.5rem);
+          color: #4F8EF7;
+          white-space: nowrap;
+          overflow: hidden;
+          border-right: 3px solid #4F8EF7;
+          width: 0;
+          animation: typing 4s steps(40) infinite, blink 1s step-end infinite;
           margin: 0 auto;
-          display: block;
-          max-width: 100%;
+          display: inline-block;
         }
-        @media (max-width: 700px) {
-          .text {
-            font-size: 2em;
+
+        .subtitle {
+          font-family: 'Fira Code', monospace;
+          font-size: clamp(0.9rem, 2vw, 1.2rem);
+          color: #8B5CF6;
+          text-align: center;
+          margin-top: 10px;
+          opacity: 0;
+          animation: fadeInUp 1s ease-out 2s forwards;
+        }
+
+        .tech-stack {
+          display: flex;
+          flex-wrap: wrap;
+          justify-content: center;
+          gap: 10px;
+          margin-top: 20px;
+          opacity: 0;
+          animation: fadeInUp 1s ease-out 3s forwards;
+        }
+
+        .tech-tag {
+          background: linear-gradient(45deg, rgba(79, 142, 247, 0.2), rgba(139, 92, 246, 0.2));
+          border: 1px solid rgba(79, 142, 247, 0.3);
+          color: #4F8EF7;
+          padding: 5px 12px;
+          border-radius: 15px;
+          font-family: 'Fira Code', monospace;
+          font-size: clamp(0.7rem, 1.5vw, 0.9rem);
+          animation: tagFloat 3s ease-in-out infinite;
+        }
+
+        .tech-tag:nth-child(even) {
+          animation-delay: 1s;
+        }
+
+        .tech-tag:nth-child(3n) {
+          animation-delay: 2s;
+        }
+
+        .particles {
+          position: absolute;
+          width: 100%;
+          height: 100%;
+          overflow: hidden;
+        }
+
+        .particle {
+          position: absolute;
+          width: 2px;
+          height: 2px;
+          background: #4F8EF7;
+          border-radius: 50%;
+          animation: float 6s linear infinite;
+        }
+
+        .particle:nth-child(1) { left: 10%; animation-delay: 0s; }
+        .particle:nth-child(2) { left: 20%; animation-delay: 1s; }
+        .particle:nth-child(3) { left: 30%; animation-delay: 2s; }
+        .particle:nth-child(4) { left: 40%; animation-delay: 3s; }
+        .particle:nth-child(5) { left: 50%; animation-delay: 4s; }
+        .particle:nth-child(6) { left: 60%; animation-delay: 5s; }
+        .particle:nth-child(7) { left: 70%; animation-delay: 1.5s; }
+        .particle:nth-child(8) { left: 80%; animation-delay: 2.5s; }
+        .particle:nth-child(9) { left: 90%; animation-delay: 3.5s; }
+
+        @keyframes typing {
+          0% { width: 0; }
+          50% { width: 100%; }
+          100% { width: 0; }
+        }
+
+        @keyframes blink {
+          0%, 50% { border-color: #4F8EF7; }
+          51%, 100% { border-color: transparent; }
+        }
+
+        @keyframes titleGlow {
+          0% { filter: drop-shadow(0 0 10px rgba(79, 142, 247, 0.3)); }
+          100% { filter: drop-shadow(0 0 20px rgba(79, 142, 247, 0.6)); }
+        }
+
+        @keyframes fadeInUp {
+          from {
+            opacity: 0;
+            transform: translateY(20px);
           }
-          .headline img {
-            width: 95vw !important;
-            min-width: unset !important;
-            max-width: 95vw !important;
+          to {
+            opacity: 1;
+            transform: translateY(0);
+          }
+        }
+
+        @keyframes tagFloat {
+          0%, 100% { transform: translateY(0px); }
+          50% { transform: translateY(-5px); }
+        }
+
+        @keyframes backgroundPulse {
+          0%, 100% { opacity: 0.5; }
+          50% { opacity: 0.8; }
+        }
+
+        @keyframes float {
+          0% {
+            transform: translateY(100vh) rotate(0deg);
+            opacity: 0;
+          }
+          10% {
+            opacity: 1;
+          }
+          90% {
+            opacity: 1;
+          }
+          100% {
+            transform: translateY(-100px) rotate(360deg);
+            opacity: 0;
+          }
+        }
+
+        /* Responsive design */
+        @media (max-width: 768px) {
+          .container {
+            padding: 15px;
+          }
+          
+          .tech-stack {
+            gap: 8px;
+          }
+          
+          .tech-tag {
+            padding: 4px 10px;
+          }
+        }
+
+        @media (max-width: 480px) {
+          .container {
+            padding: 10px;
+          }
+          
+          .typing-text {
+            font-size: 1rem;
           }
         }
       </style>
+      
       <div class="container">
-        <!-- Animated CodeFlow text -->
-        <div class="wrapper">
-          <div class="text">
-            CodeFlow.
+        <div class="particles">
+          <div class="particle"></div>
+          <div class="particle"></div>
+          <div class="particle"></div>
+          <div class="particle"></div>
+          <div class="particle"></div>
+          <div class="particle"></div>
+          <div class="particle"></div>
+          <div class="particle"></div>
+          <div class="particle"></div>
+        </div>
+        
+        <div class="main-title">
+          Hi there, I'm Pratyush Pandey 👋
+        </div>
+        
+        <div class="typing-container">
+          <div class="typing-text">
+            Fullstack ⚙️ MERN | Spring | AI Engineer
           </div>
         </div>
-        <!-- Professional Typing Headline -->
-        <div class="headline">
-          <img 
-            src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=4F8EF7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Pratyush+Pandey+%F0%9F%91%8B;Fullstack+%E2%9A%99%EF%B8%8F+MERN+%7C+Spring+%7C+AI+Engineer;Open+Source+%E2%9C%A8+%7C+Tech+Explorer+%F0%9F%9A%80" 
-            alt="Typing SVG"
-            style="width: 600px; min-width: 300px;"
-          />
+        
+        <div class="subtitle">
+          Open Source ✨ | Tech Explorer 🚀
+        </div>
+        
+        <div class="tech-stack">
+          <div class="tech-tag">React</div>
+          <div class="tech-tag">Node.js</div>
+          <div class="tech-tag">Spring</div>
+          <div class="tech-tag">AI/ML</div>
+          <div class="tech-tag">TypeScript</div>
+          <div class="tech-tag">MongoDB</div>
         </div>
       </div>
-    </div>
-  </foreignObject>
+  </div>
+ </foreignObject>
 </svg>
