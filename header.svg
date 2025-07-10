@@ -2,10 +2,10 @@
  <defs>
    <!-- Gradient definitions -->
    <linearGradient id="gradient1" x1="0%" y1="0%" x2="100%" y2="0%">
-     <stop offset="0%" style="stop-color:#00F1DC;stop-opacity:1" />
-     <stop offset="44%" style="stop-color:#5673F1;stop-opacity:1" />
-     <stop offset="54%" style="stop-color:#6744F1;stop-opacity:1" />
-     <stop offset="100%" style="stop-color:#FE00FF;stop-opacity:1" />
+     <stop offset="0%" style="stop-color:#000000;stop-opacity:1" />
+     <stop offset="44%" style="stop-color:#1a1a1a;stop-opacity:1" />
+     <stop offset="54%" style="stop-color:#333333;stop-opacity:1" />
+     <stop offset="100%" style="stop-color:#4d4d4d;stop-opacity:1" />
    </linearGradient>
    
    <linearGradient id="gradient2" x1="0%" y1="0%" x2="100%" y2="0%">
@@ -36,7 +36,7 @@
           flex-direction: column;
           justify-content: center;
           align-items: center;
-          background: linear-gradient(135deg, #0a0a0a 0%, #1a1a2e 50%, #16213e 100%);
+          background: linear-gradient(135deg, #000000 0%, #1a1a1a 50%, #333333 100%);
           padding: 20px;
           box-sizing: border-box;
           position: relative;
