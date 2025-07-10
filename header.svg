@@ -64,6 +64,30 @@
           margin-bottom: 20px;
           animation: titleGlow 2s ease-in-out infinite alternate;
           filter: drop-shadow(0 0 10px rgba(79, 142, 247, 0.3));
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          gap: clamp(0.4rem, 1vw, 1.2rem);
+        }
+
+        /* Animated waving hand styling */
+        .wave-hand {
+          display: inline-block;
+          transform-origin: 70% 80%;
+          font-size: clamp(1.8rem, 2vw, 2.5rem);
+          will-change: transform;
+          animation: wave-hand 2.2s 0.3s infinite cubic-bezier(.36,.07,.19,.97);
+          /* Ensures hand is always visible in right spot */
+        }
+        @keyframes wave-hand {
+          0% { transform: rotate(0deg);}
+          10% { transform: rotate(14deg);}
+          20% { transform: rotate(-8deg);}
+          30% { transform: rotate(14deg);}
+          40% { transform: rotate(-4deg);}
+          50% { transform: rotate(10deg);}
+          60% { transform: rotate(0deg);}
+          100% { transform: rotate(0deg);}
         }
 
         .typing-container {
@@ -210,11 +234,13 @@
           .container {
             padding: 15px;
           }
-          
+          .main-title {
+            font-size: clamp(1.6rem, 4vw, 2.5rem);
+            gap: 0.5rem;
+          }
           .tech-stack {
             gap: 8px;
           }
-          
           .tech-tag {
             padding: 4px 10px;
           }
@@ -224,9 +250,15 @@
           .container {
             padding: 10px;
           }
-          
+          .main-title {
+            font-size: clamp(1.2rem, 5vw, 1.6rem);
+            gap: 0.4rem;
+          }
           .typing-text {
             font-size: 1rem;
+          }
+          .wave-hand {
+            font-size: 1.4rem;
           }
         }
       </style>
@@ -245,7 +277,8 @@
         </div>
         
         <div class="main-title">
-          Hi there, I'm Pratyush Pandey 👋
+          Hi there, I'm Pratyush Pandey
+          <span class="wave-hand" aria-label="waving hand" role="img">👋</span>
         </div>
         
         <div class="typing-container">
