@@ -1,8 +1,6 @@
 
 
 
-<!-- Simple Blue Top Wave Divider -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:89f7fe,100:66a6ff&height=120&section=header" width="100%" height="200" alt="header wave"/>
 
 <div align="center">
  <a class="link" href="https://github.com/codeflowjs/codeflowjs/blame/main/header.svg">
