@@ -65,6 +65,15 @@
 - **Resume:** [View Here](https://drive.google.com/file/d/1WFIrbopURE5SHz8nAkPmEmqe9QfWZJlF/view?usp=drive_link)
 - **Email:** pratyush.me.ai@gmail.com
 
+
+## 🤝 Looking to Collaborate On
+
+- MERN Stack & Spring Boot APIs
+- Microservices Architecture
+- AI-integrated Web Apps
+- Hackathons | Open Source | Team Projects
+
+
 ### 😄 **Fun Fact**
 
 > _I turn complex code into clean, scalable apps — and still manage to laugh at my own debugging jokes._
@@ -91,21 +100,13 @@
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=%23FF7139" alt="Portfolio"/>
   </a>
 </p>
-
-## 🤝 Looking to Collaborate On
-
-- MERN Stack & Spring Boot APIs
-- Microservices Architecture
-- AI-integrated Web Apps
-- Hackathons | Open Source | Team Projects
+<!-- Colorful Blobs Divider (Section Break) -->
+<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner7.png" width="100%" height="100%">
 
 <!-- Simple Colored Wave Divider -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" height="100%">
 
 ## 🏅 Languages & Tools
-
-<!-- Colorful Blobs Divider (Section Break) -->
-<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner7.png" width="100%" height="100%">
 
 ### 💻 Languages
 <p>
