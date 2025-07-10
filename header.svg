@@ -36,7 +36,7 @@
           flex-direction: column;
           justify-content: center;
           align-items: center;
-          background: linear-gradient(135deg, #000000 0%, #1a1a1a 50%, #333333 100%);
+          background: #000;
           padding: 20px;
           box-sizing: border-box;
           position: relative;
