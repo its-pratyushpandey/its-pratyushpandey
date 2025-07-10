@@ -1,17 +1,15 @@
 
+
+
+<!-- Simple Blue Top Wave Divider -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:89f7fe,100:66a6ff&height=120&section=header" width="100%" height="200" alt="header wave"/>
+
 <div align="center">
  <a class="link" href="https://github.com/codeflowjs/codeflowjs/blame/main/header.svg">
   <img class="image" src="header.svg" alt="Click to see the source">
  </a>
 </div>
 
-
-<!-- Simple Blue Top Wave Divider -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:89f7fe,100:66a6ff&height=120&section=header" width="100%" height="200" alt="header wave"/>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=4F8EF7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Pratyush+Pandey+%F0%9F%91%8B;Fullstack+%E2%9A%99%EF%B8%8F+MERN+%7C+Spring+%7C+AI+Engineer;Open+Source+%E2%9C%A8+%7C+Tech+Explorer+%F0%9F%9A%80" alt="Typing SVG" />
-</h1>
 
 <p align="center">
   <a href="https://www.codechef.com/users/kl_2300030557"><img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef" /></a>
