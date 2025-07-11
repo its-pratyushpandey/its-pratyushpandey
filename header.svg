@@ -306,11 +306,11 @@
         
         <div class="tech-stack">
           <div class="tech-tag">React</div>
-          <div class="tech-tag">Node.js</div>
           <div class="tech-tag">Spring</div>
           <div class="tech-tag">AI/ML</div>
           <div class="tech-tag">TypeScript</div>
-          <div class="tech-tag">MongoDB</div>
+                <div class="tech-tag">Next.js</div>
+          <div class="tech-tag">NLP</div>
         </div>
       </div>
   </div>
