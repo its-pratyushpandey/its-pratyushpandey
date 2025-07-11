@@ -36,7 +36,7 @@
           flex-direction: column;
           justify-content: center;
           align-items: center;
-          background: #000;
+          background: #0D1117; /* Updated the background color */
           padding: 20px;
           box-sizing: border-box;
           position: relative;
