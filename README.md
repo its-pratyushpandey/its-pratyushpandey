@@ -186,30 +186,40 @@
 </p>
 
 <h2 align="center" style="color: #21e6c1;">🚀 Selected Works 👨‍💻</h2>
-<p align="center" style="background: #1a2238; border-radius: 12px; padding: 30px 10px;">
-  <a href="https://github.com/its-pratyushpandey/NextHire">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=its-pratyushpandey&repo=NextHire&theme=algolia"/>
-  </a>
-  <a href="https://github.com/its-pratyushpandey/Matefy">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=its-pratyushpandey&repo=Matefy&theme=algolia"/>
-  </a>
-  <a href="https://github.com/its-pratyushpandey/Intellia">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=its-pratyushpandey&repo=Intellia&theme=algolia"/>
-  </a>
-  <a href="https://github.com/its-pratyushpandey/Codivue">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=its-pratyushpandey&repo=Codivue&theme=algolia"/>
-  </a>
-  <a href="https://github.com/its-pratyushpandey/Resumora">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=its-pratyushpandey&repo=Resumora&theme=algolia"/>
-  </a>
-  <a href="https://github.com/its-pratyushpandey/Codewave">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=its-pratyushpandey&repo=Codewave&theme=algolia"/>
-  </a>
-  <a href="https://github.com/its-pratyushpandey/CodeSync">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=its-pratyushpandey&repo=CodeSync&theme=algolia"/>
-  </a>
-</p>
 
+<div align="center" style="background: #1a2238; border-radius: 12px; padding: 30px 10px; display: flex; flex-wrap: wrap; gap: 14px; justify-content: center;">
+
+  <a href="https://github.com/its-pratyushpandey/NextHire" style="margin: 8px;">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=its-pratyushpandey&repo=NextHire&theme=algolia" alt="NextHire"/>
+  </a>
+  <a href="https://github.com/its-pratyushpandey/Matefy" style="margin: 8px;">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=its-pratyushpandey&repo=Matefy&theme=algolia" alt="Matefy"/>
+  </a>
+  <a href="https://github.com/its-pratyushpandey/Intellia" style="margin: 8px;">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=its-pratyushpandey&repo=Intellia&theme=algolia" alt="Intellia"/>
+  </a>
+  <a href="https://github.com/its-pratyushpandey/Codivue" style="margin: 8px;">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=its-pratyushpandey&repo=Codivue&theme=algolia" alt="Codivue"/>
+  </a>
+  <a href="https://github.com/its-pratyushpandey/Resumora" style="margin: 8px;">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=its-pratyushpandey&repo=Resumora&theme=algolia" alt="Resumora"/>
+  </a>
+  <a href="https://github.com/its-pratyushpandey/Codewave" style="margin: 8px;">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=its-pratyushpandey&repo=Codewave&theme=algolia" alt="Codewave"/>
+  </a>
+  <a href="https://github.com/its-pratyushpandey/CodeSync" style="margin: 8px;">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=its-pratyushpandey&repo=CodeSync&theme=algolia" alt="CodeSync"/>
+  </a>
+  <a href="https://github.com/its-pratyushpandey/IntervIQ" style="margin: 8px;">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=its-pratyushpandey&repo=IntervIQ&theme=algolia" alt="IntervIQ"/>
+  </a>
+
+</div>
+
+<!-- 
+  💡 Tip: The use of <div> and inline styles ensures the layout remains responsive and visually appealing on different screen sizes. 
+  For more advanced responsiveness, consider using custom CSS or a markdown-to-HTML renderer that supports media queries.
+-->
 [![](https://visitcount.itsvg.in/api?id=its-pratyushpandey&icon=0&color=0)](https://visitcount.itsvg.in)
 ![snake gif](https://github.com/its-pratyushpandey/its-pratyushpandey/blob/output/github-snake-dark.svg)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
