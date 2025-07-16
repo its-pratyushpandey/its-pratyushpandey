@@ -175,10 +175,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-pratyushpandey&theme=algolia&hide_border=false&layout=compact" height="170"/>
 </div>
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=its-pratyushpandey&theme=algolia&no-frame=false&no-bg=false&margin-w=4"/>
-</p>
+
 
  🔝 Top Contributed Repo
 <p align="center">
