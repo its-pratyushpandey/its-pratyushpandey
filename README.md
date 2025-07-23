@@ -30,7 +30,6 @@
 </p>
 
 
-
 <!-- Simple Colored Wave Divider -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" height="100%">
 
