@@ -179,7 +179,6 @@
 </div>
 
 
-
  🔝 Top Contributed Repo
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=its-pratyushpandey&limit=5&theme=algolia&combine_all_yearly_contributions=true"/>
@@ -222,32 +221,6 @@
   </a>
 
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
