@@ -43,7 +43,9 @@
 - 🔧 **Spring Boot**, **Spring Security**, **JWT Authentication**
 - ☁️ Exploring **Cloud Computing** & **DevOps Tools**
 
+
 ### 🏗️ Current Projects
+
 
 - **NextHire:** AI-powered job portal  
   - 💬 Real-time chat, 🧠 AI assistant, 🤖 Mock interviews, 📊 AI job recommendations
