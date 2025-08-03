@@ -58,6 +58,8 @@
   <img alt="coding" width="350" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 </p>
 
+<img align="right" src="https://github.com/its-pratyushpandey/github-stats-transparent/blob/output/generated/overview.svg"  width="400">
+
 ### 🌐 Portfolio & Resources
 
 - **Portfolio:** [prtyush.netlify.app](https://prtyush.netlify.app/)
