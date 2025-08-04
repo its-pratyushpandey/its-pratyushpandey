@@ -215,9 +215,8 @@
 
 </div>
 
-
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=its-pratyushpandey&bg_color=0d1117&color=79ff97&line=79ff97&point=ffffff&area=true&hide_border=true" alt="its-pratyushpandey" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=its-pratyushpandey&bg_color=0d1117&color=5468ff&line=5468ff&point=ffffff&area=true&hide_border=true" alt="its-pratyushpandey" />
 </p>
 
 <!-- 
