@@ -216,6 +216,9 @@
 </div>
 
 
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=its-pratyushpandey&bg_color=0d1117&color=79ff97&line=79ff97&point=ffffff&area=true&hide_border=true" alt="its-pratyushpandey" />
+</p>
 
 <!-- 
   💡 Tip: The use of <div> and inline styles ensures the layout remains responsive and visually appealing on different screen sizes. 
