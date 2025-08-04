@@ -219,6 +219,34 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=its-pratyushpandey&bg_color=0d1117&color=5468ff&line=5468ff&point=ffffff&area=true&hide_border=true" alt="its-pratyushpandey" />
 </p>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!-- 
   💡 Tip: The use of <div> and inline styles ensures the layout remains responsive and visually appealing on different screen sizes. 
   For more advanced responsiveness, consider using custom CSS or a markdown-to-HTML renderer that supports media queries.
