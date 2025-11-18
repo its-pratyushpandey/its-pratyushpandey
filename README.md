@@ -182,7 +182,10 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=its-pratyushpandey&theme=algolia&no-frame=false&no-bg=false&margin-w=4"/>
 </p>
-
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=its-pratyushpandey&theme=juicyfresh" alt="GitHub Trophies"/>
+</p>
 
 <h2 align="center" style="color: #21e6c1;">🚀 Selected Works 👨‍💻</h2>
 
