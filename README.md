@@ -178,10 +178,16 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=its-pratyushpandey&limit=5&theme=algolia&combine_all_yearly_contributions=true"/>
 </p>
 
-### 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=its-pratyushpandey&theme=algolia&no-frame=false&no-bg=false&margin-w=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=its-pratyushpandey&theme=algolia&no-frame=false&no-bg=false&margin-w=4" />
 </p>
+
+## 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=its-pratyushpandey&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
+
 
 
 
