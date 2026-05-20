@@ -164,19 +164,29 @@
 <!-- Simple Colored Wave Divider -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" height="100%">
 
-## 📊 GitHub Stats & Animations
+
+## 📊 GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=its-pratyushpandey&theme=algolia&hide_border=false&include_all_commits=true&count_private=false" height="170"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=its-pratyushpandey&theme=algolia&hide_border=false" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-pratyushpandey&theme=algolia&hide_border=false&layout=compact" height="170"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=its-pratyushpandey&show_icons=true&theme=algolia&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img height="170em" src="https://streak-stats.demolab.com?user=its-pratyushpandey&theme=algolia&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-pratyushpandey&layout=compact&theme=algolia&hide_border=true"/>
+
 </div>
 
+---
 
- 🔝 Top Contributed Repo
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=its-pratyushpandey&limit=5&theme=algolia&combine_all_yearly_contributions=true"/>
-</p>
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=its-pratyushpandey&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" />
+
+</div>
+---
 
 
 
