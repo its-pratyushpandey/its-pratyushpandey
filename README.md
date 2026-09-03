@@ -177,49 +177,12 @@
 
 </div>
 
----
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=its-pratyushpandey&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" />
-
-</div>
 ---
 
 
 
-<h2 align="center" style="color: #21e6c1;">🚀 Selected Works 👨‍💻</h2>
 
-<div align="center" style="background: #1a2238; border-radius: 12px; padding: 30px 10px; display: flex; flex-wrap: wrap; gap: 14px; justify-content: center;">
-
-  <a href="https://github.com/its-pratyushpandey/NextHire" style="margin: 8px;">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=its-pratyushpandey&repo=NextHire&theme=algolia" alt="NextHire"/>
-  </a>
-  <a href="https://github.com/its-pratyushpandey/Matefy" style="margin: 8px;">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=its-pratyushpandey&repo=Matefy&theme=algolia" alt="Matefy"/>
-  </a>
-  <a href="https://github.com/its-pratyushpandey/Intellia" style="margin: 8px;">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=its-pratyushpandey&repo=Intellia&theme=algolia" alt="Intellia"/>
-  </a>
-  <a href="https://github.com/its-pratyushpandey/Codivue" style="margin: 8px;">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=its-pratyushpandey&repo=Codivue&theme=algolia" alt="Codivue"/>
-  </a>
-  <a href="https://github.com/its-pratyushpandey/Resumora" style="margin: 8px;">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=its-pratyushpandey&repo=Resumora&theme=algolia" alt="Resumora"/>
-  </a>
-  <a href="https://github.com/its-pratyushpandey/Codewave" style="margin: 8px;">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=its-pratyushpandey&repo=Codewave&theme=algolia" alt="Codewave"/>
-  </a>
-  <a href="https://github.com/its-pratyushpandey/CodeSync" style="margin: 8px;">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=its-pratyushpandey&repo=CodeSync&theme=algolia" alt="CodeSync"/>
-  </a>
-  <a href="https://github.com/its-pratyushpandey/IntervIQ" style="margin: 8px;">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=its-pratyushpandey&repo=IntervIQ&theme=algolia" alt="IntervIQ"/>
-  </a>
-
-</div>
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=its-pratyushpandey&bg_color=0d1117&color=5468ff&line=5468ff&point=ffffff&area=true&hide_border=true" alt="its-pratyushpandey" />
