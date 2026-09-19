@@ -38,34 +38,309 @@
 </p>
 
 
-
-<!-- Simple Colored Wave Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" height="100%">
-
-# 🚀 Fullstack Developer | MERN Stack Expertise | India
-
-👋 **Hi, I'm Pratyush Pandey**, a passionate full-stack web developer building scalable, secure applications using:
-
-- 🌐 **React.js**, **Next.js**, **Express.js**
-- 🔣 TypeScript + ESLint + Prettier workflows
-- 🧩 **MongoDB**, **MySQL**, **REST APIs**
-- 🔧 **Spring Boot**, **Spring Security**, **JWT Authentication**
-- ☁️ Exploring **Cloud Computing** & **DevOps Tools**
-
-
-### 🏗️ Current Projects
-
-
-- **NextHire:** AI-powered job portal  
-  - 💬 Real-time chat, 🧠 AI assistant, 🤖 Mock interviews, 📊 AI job recommendations
-
-### 📚 Currently Learning
-
-- TypeScript | Next.js | Advanced Spring Boot & Security
-- Express.js | NLP | Machine Learning (Python)
 <p align="center">
-  <img alt="coding" width="350" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+  <a href="#">
+    <img src="https://img.shields.io/badge/Full--Stack-Developer-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Java-Spring%20Boot-orange?style=for-the-badge&logo=springboot&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/AI%20%26%20LLMs-Developer-blueviolet?style=for-the-badge&logo=openai&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/India-Developer-FF9933?style=for-the-badge&logoColor=white" />
+  </a>
 </p>
+
+<p align="center">
+  <b>Building scalable applications • Engineering reliable backends • Exploring AI-powered software</b>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a **Computer Science & Engineering student at KLEF, Guntur**, with a strong focus on **full-stack development, backend engineering, and AI-powered applications**.
+
+I enjoy turning ideas into production-oriented software — from designing **REST APIs and secure backend systems** to building **AI-powered platforms using LLMs, RAG, and intelligent agents**.
+
+My development journey combines strong fundamentals in **Java, Data Structures & Algorithms, backend architecture, databases, cloud technologies, and modern web development**.
+
+* 🎓 **B.Tech CSE — KLEF, Guntur**
+* 📊 **CGPA: 8.62 / 10**
+* 💻 **Full-Stack & Backend Development**
+* 🤖 **AI / LLM / RAG Enthusiast**
+* 🧠 **300+ DSA Problems Solved**
+* 🏗️ **70+ GitHub Repositories**
+* 🏆 Participated in **3 National-Level Hackathons**
+
+---
+
+## 💼 Current Role
+
+### 🟢 Trainee — Calibo AI Academy
+
+**Currently training and developing expertise in AI, software engineering, and modern enterprise technologies.**
+
+My current focus includes:
+
+* 🤖 Artificial Intelligence & Generative AI
+* 🧠 LLMs, RAG & AI Agents
+* ☁️ Cloud & DevOps concepts
+* 🏗️ Software engineering & scalable application development
+* 🔧 Modern development workflows and engineering practices
+
+> **Currently:** Building stronger industry-ready skills through hands-on learning, technical training, and practical development at **Calibo AI Academy**.
+
+---
+
+## ✅ Internship Experience
+
+### 🔵 LLM Post-Training Intern — EtharaAI
+
+**Jan 2026 – May 2026 | Gurugram, India**
+
+Successfully completed an internship focused on **AI and Large Language Model post-training workflows**.
+
+During my internship, I worked on:
+
+* 🧠 LLM post-training workflows
+* 📊 Data preparation and response evaluation
+* ✍️ Prompt analysis and optimization
+* 🤖 Generative AI and NLP workflows
+* 🔍 Human-aligned data processing
+* 📈 Model-quality improvement activities
+* 🤝 Collaboration with mentors and team members
+
+This experience gave me practical exposure to **real-world Generative AI, LLM evaluation, NLP, and AI optimization workflows**.
+
+---
+
+# 🛠️ Technical Skills
+
+### 💻 Languages
+
+<p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+</p>
+
+### 🌐 Frontend
+
+<p>
+<img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white" />
+</p>
+
+### ⚙️ Backend
+
+<p>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_APIs-02569B?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Microservices-FF6F00?style=flat-square&logoColor=white" />
+</p>
+
+### 🔐 Security & Architecture
+
+<p>
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+<img src="https://img.shields.io/badge/OAuth_2.0-EB5424?style=flat-square&logo=auth0&logoColor=white" />
+<img src="https://img.shields.io/badge/RBAC-4B5563?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/SOLID_Principles-2F80ED?style=flat-square&logoColor=white" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+</p>
+
+### 🤖 AI / ML / LLM
+
+<p>
+<img src="https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-7C3AED?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Prompt_Engineering-FF6F00?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/AI_Agents-5B21B6?style=flat-square&logoColor=white" />
+</p>
+
+### ☁️ Cloud & DevOps
+
+<p>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🎙️ Cogniview — AI Voice Interview & Placement Platform
+
+**Next.js • TypeScript • Firebase • VAPI • REST APIs**
+
+An AI-powered voice interview platform designed to provide interactive placement and interview practice.
+
+**Highlights:**
+
+* 🎤 Real-time voice interview experience
+* 🧠 AI-powered interview evaluation
+* 📊 Structured scoring and feedback
+* 🎯 Role-specific interview insights
+* ⚡ Modern responsive interface
+
+---
+
+## 💼 NextHire — AI-Powered Job Portal
+
+**React.js • Node.js • Express.js • MongoDB • WebSockets • JWT**
+
+A full-stack job portal connecting recruiters and job seekers with AI-powered capabilities.
+
+**Highlights:**
+
+* 🔐 Secure authentication & authorization
+* 👥 Role-based access control
+* 💬 Real-time communication
+* 🤖 AI-powered job recommendations
+* 🔌 Scalable REST APIs
+* ⚡ Backend performance optimization
+
+---
+
+## 📄 Arise — AI Resume & Interview Assistant
+
+**Next.js • Node.js • MongoDB • Gemini AI • REST APIs**
+
+An AI-powered career assistant designed to help candidates improve their resumes and prepare for interviews.
+
+**Highlights:**
+
+* 📊 ATS resume scoring
+* 🤖 AI-powered feedback
+* 🎤 Mock interview assistance
+* 🧠 Personalized recommendations
+* 🔐 Secure backend APIs
+* ⚡ Optimized database operations
+
+---
+
+# 🏆 Achievements
+
+| Achievement          | Highlights                                               |
+| -------------------- | -------------------------------------------------------- |
+| 🧠 **DSA**           | 300+ problems solved                                     |
+| 💻 **GitHub**        | 70+ repositories                                         |
+| 📈 **Contributions** | 1,200+ contributions                                     |
+| 🏆 **Hackathons**    | 3 national-level hackathons                              |
+| 👥 **Leadership**    | Led a team of 5                                          |
+| 🎯 **Events**        | Technical events & coding contests for 200+ participants |
+
+### 🏅 Hackathons
+
+* Smart India Hackathon
+* HackVega
+* Tata Imagination Challenge
+
+---
+
+# 📜 Certifications
+
+* 🟢 **MongoDB Certified Developer – Associate — 2025**
+* ☁️ **Oracle Cloud Infrastructure Certified Developer Professional — 2025**
+* 🤖 **Salesforce Certified AI Associate — 2025**
+* 🌐 **Cambridge Linguaskill English Certification — 2024**
+
+---
+
+# 📚 Currently Focused On
+
+```text
+┌─────────────────────────────────────────────────────┐
+│                                                     │
+│  ☕ Advanced Java & Spring Boot                     │
+│  🏗️ Scalable Backend Architecture                  │
+│  🤖 Generative AI & LLM Applications                │
+│  🔎 RAG & AI Agents                                 │
+│  ☁️ Cloud & DevOps                                  │
+│  🧩 Microservices & Distributed Systems              │
+│  🧠 Data Structures & Algorithms                    │
+│                                                     │
+└─────────────────────────────────────────────────────┘
+```
+
+---
+
+# 💡 What I Like Building
+
+```text
+AI-Powered Applications
+        ↓
+Scalable Backend Systems
+        ↓
+REST APIs & Microservices
+        ↓
+Secure Authentication
+        ↓
+Modern Full-Stack Interfaces
+        ↓
+Cloud-Ready Applications
+```
+
+I particularly enjoy working at the intersection of **software engineering and artificial intelligence**, where backend systems, modern web applications, and AI capabilities come together.
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="#">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
+<a href="mailto:pratyush.me.ai@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</p>
+
+<p align="center">
+  <b>💻 Build. Learn. Solve. Repeat. 🚀</b>
+</p>
+
+<p align="center">
+  <i>Thanks for visiting my profile!</i>
+</p>
+
 
 ### 🌐 Portfolio & Resources
 
@@ -86,103 +361,11 @@
 
 > _I turn complex code into clean, scalable apps — and still manage to laugh at my own debugging jokes._
 
-<h3 align="center">Connect with Me</h3>
-<p align="center">
-  <a href="mailto:pratyush.me.ai@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/pratyush-pandey1">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://instagram.com/its.pratyush_pandey">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://wa.me/917562920811">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
-  <a href="https://t.me/pratyushpandey_1">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-  <a href="https://prtyush.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=%23FF7139" alt="Portfolio"/>
-  </a>
-</p>
+
 <!-- Colorful Blobs Divider (Section Break) -->
 
 <!-- Simple Colored Wave Divider -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" height="100%">
-
-## 🏅 Languages & Tools
-
-### 💻 Languages
-<p>
-  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
- 🧰 Frameworks & Libraries
-<p> 
-  <img alt="React" src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232a?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img alt="Next JS" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
-  <img alt="React Router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
-  <img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img alt="Three.js" src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white"/>
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img alt="Socket.io" src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101"/>
-  <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img alt="NLP" src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-4b8bbe?style=for-the-badge"/>
-</p>
-
-### ☁️ Deployment & Hosting
-<p>
-  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img alt="Render" src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
-  <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-  <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img alt="DigitalOcean" src="https://img.shields.io/badge/DigitalOcean-0167ff?style=for-the-badge&logo=digitalOcean&logoColor=white"/>
-  <img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
-</p>
-
-### 🗄️ Databases
-<p>
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img alt="ArangoDB" src="https://img.shields.io/badge/ArangoDB-DDE072?style=for-the-badge&logo=arangodb&logoColor=white"/>
-  <img alt="Amazon DynamoDB" src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white"/>
-  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white"/>
-</p>
-
-### 🛠️ Tools & Platforms
-<p>
-  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
-  <img alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
-  <img alt="NPM" src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
-</p>
-
-<!-- Simple Colored Wave Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" height="100%">
-
-
-## 📊 GitHub Stats & Activity
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=its-pratyushpandey&show_icons=true&theme=algolia&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="170em" src="https://streak-stats.demolab.com?user=its-pratyushpandey&theme=algolia&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-pratyushpandey&layout=compact&theme=algolia&hide_border=true"/>
-
-</div>
 
 
 ---
@@ -191,9 +374,6 @@
 
 
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=its-pratyushpandey&bg_color=0d1117&color=5468ff&line=5468ff&point=ffffff&area=true&hide_border=true" alt="its-pratyushpandey" />
-</p>
 
 
 <!-- 
