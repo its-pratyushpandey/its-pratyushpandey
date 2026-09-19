@@ -17,7 +17,7 @@
   <a href="https://github.com/its-pratyushpandey">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://prtyush.netlify.app/">
+  <a href="https://dev.pratyushpandey.me/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:pratyush.me.ai@gmail.com">
