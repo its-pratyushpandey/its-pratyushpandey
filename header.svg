@@ -1,318 +1,706 @@
-<svg fill="none" width="100%" height="400" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400">
- <defs>
-   <!-- Gradient definitions -->
-   <linearGradient id="gradient1" x1="0%" y1="0%" x2="100%" y2="0%">
-     <stop offset="0%" style="stop-color:#000000;stop-opacity:1" />
-     <stop offset="44%" style="stop-color:#1a1a1a;stop-opacity:1" />
-     <stop offset="54%" style="stop-color:#333333;stop-opacity:1" />
-     <stop offset="100%" style="stop-color:#4d4d4d;stop-opacity:1" />
-   </linearGradient>
-   
-   <linearGradient id="gradient2" x1="0%" y1="0%" x2="100%" y2="0%">
-     <stop offset="0%" style="stop-color:#4F8EF7;stop-opacity:1" />
-     <stop offset="50%" style="stop-color:#8B5CF6;stop-opacity:1" />
-     <stop offset="100%" style="stop-color:#06B6D4;stop-opacity:1" />
-   </linearGradient>
+<svg
+  width="1200"
+  height="400"
+  viewBox="0 0 1200 400"
+  fill="none"
+  xmlns="http://www.w3.org/2000/svg"
+>
 
-   <!-- Glow filter -->
-   <filter id="glow">
-     <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
-     <feMerge> 
-       <feMergeNode in="coloredBlur"/>
-       <feMergeNode in="SourceGraphic"/>
-     </feMerge>
-   </filter>
- </defs>
- 
- <foreignObject width="100%" height="100%">
-  <div xmlns="http://www.w3.org/1999/xhtml">
-      <style>
-        @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500;700&amp;display=swap');
-        
-        .container {
-          width: 100%;
-          height: 400px;
-          display: flex;
-          flex-direction: column;
-          justify-content: center;
-          align-items: center;
-          background: #000;
-          padding: 20px;
-          box-sizing: border-box;
-          position: relative;
-          overflow: hidden;
-        }
+  <!-- =========================================================
+       DEFINITIONS
+  ========================================================== -->
 
-        .container::before {
-          content: '';
-          position: absolute;
-          top: 0;
-          left: 0;
-          right: 0;
-          bottom: 0;
-          background: radial-gradient(circle at 20% 50%, rgba(79, 142, 247, 0.1) 0%, transparent 50%),
-                      radial-gradient(circle at 80% 50%, rgba(254, 0, 255, 0.1) 0%, transparent 50%);
-          animation: backgroundPulse 4s ease-in-out infinite;
-        }
+  <defs>
 
-        .main-title {
-          font-family: 'Fira Code', monospace;
-          font-size: clamp(3rem, 8vw, 6rem); /* Increased from 2rem, 5vw, 4rem */
-          font-weight: 700;
-          color: #ffffff;
-          text-align: center;
-          margin-bottom: 20px;
-          animation: titleGlow 2s ease-in-out infinite alternate;
-          filter: drop-shadow(0 0 10px rgba(79, 142, 247, 0.3));
-          display: flex;
-          align-items: center;
-          justify-content: center;
-          gap: clamp(0.7rem, 1.5vw, 2rem); /* Slightly larger gap */
-        }
+    <!-- Main background -->
+    <linearGradient
+      id="background"
+      x1="0"
+      y1="0"
+      x2="1200"
+      y2="400"
+      gradientUnits="userSpaceOnUse"
+    >
+      <stop offset="0%" stop-color="#020409"/>
+      <stop offset="50%" stop-color="#080B12"/>
+      <stop offset="100%" stop-color="#020409"/>
+    </linearGradient>
 
-        /* Animated waving hand styling */
-        .wave-hand {
-          display: inline-block;
-          transform-origin: 70% 80%;
-          font-size: clamp(2.5rem, 3vw, 4rem); /* Increased from 1.8rem, 2vw, 2.5rem */
-          will-change: transform;
-          animation: wave-hand 2.2s 0.3s infinite cubic-bezier(.36,.07,.19,.97);
-        }
-        @keyframes wave-hand {
-          0% { transform: rotate(0deg);}
-          10% { transform: rotate(14deg);}
-          20% { transform: rotate(-8deg);}
-          30% { transform: rotate(14deg);}
-          40% { transform: rotate(-4deg);}
-          50% { transform: rotate(10deg);}
-          60% { transform: rotate(0deg);}
-          100% { transform: rotate(0deg);}
-        }
+    <!-- Accent gradient -->
+    <linearGradient
+      id="accent"
+      x1="250"
+      y1="0"
+      x2="950"
+      y2="0"
+      gradientUnits="userSpaceOnUse"
+    >
+      <stop offset="0%" stop-color="#4F8EF7"/>
+      <stop offset="50%" stop-color="#8B5CF6"/>
+      <stop offset="100%" stop-color="#06B6D4"/>
+    </linearGradient>
 
-        .typing-container {
-          width: 100%;
-          max-width: 800px;
-          text-align: center;
-          margin-bottom: 15px;
-        }
+    <!-- Blue glow -->
+    <radialGradient id="blueGlow">
+      <stop
+        offset="0%"
+        stop-color="#4F8EF7"
+        stop-opacity="0.18"
+      />
+      <stop
+        offset="100%"
+        stop-color="#4F8EF7"
+        stop-opacity="0"
+      />
+    </radialGradient>
 
-        .typing-text {
-          font-family: 'Fira Code', monospace;
-          font-size: clamp(2rem, 4vw, 3rem); /* Increased from 1rem, 2.5vw, 1.5rem */
-          color: #ffffff;
-          white-space: nowrap;
-          overflow: hidden;
-          border-right: 3px solid #ffffff;
-          width: 0;
-          animation: typing 4s steps(40) infinite, blink 1s step-end infinite;
-          margin: 0 auto;
-          display: inline-block;
-        }
+    <!-- Purple glow -->
+    <radialGradient id="purpleGlow">
+      <stop
+        offset="0%"
+        stop-color="#8B5CF6"
+        stop-opacity="0.15"
+      />
+      <stop
+        offset="100%"
+        stop-color="#8B5CF6"
+        stop-opacity="0"
+      />
+    </radialGradient>
 
-        .subtitle {
-          font-family: 'Fira Code', monospace;
-          font-size: clamp(1.5rem, 3vw, 2.2rem); /* Increased from 0.9rem, 2vw, 1.2rem */
-          color: #ffffff;
-          text-align: center;
-          margin-top: 10px;
-          opacity: 0;
-          animation: fadeInUp 1s ease-out 2s forwards;
-        }
+    <!-- Main glow -->
+    <filter
+      id="textGlow"
+      x="-50%"
+      y="-50%"
+      width="200%"
+      height="200%"
+    >
+      <feGaussianBlur
+        stdDeviation="5"
+        result="blur"
+      />
 
-        .tech-stack {
-          display: flex;
-          flex-wrap: wrap;
-          justify-content: center;
-          gap: 18px; /* Increased gap */
-          margin-top: 20px;
-          opacity: 0;
-          animation: fadeInUp 1s ease-out 3s forwards;
-        }
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
 
-        .tech-tag {
-          background: linear-gradient(45deg, rgba(79, 142, 247, 0.2), rgba(139, 92, 246, 0.2));
-          border: 1px solid rgba(79, 142, 247, 0.3);
-          color: #ffffff;
-          padding: 10px 22px; /* Increased padding */
-          border-radius: 22px;
-          font-family: 'Fira Code', monospace;
-          font-size: clamp(1.2rem, 2vw, 1.7rem); /* Increased from 0.7rem, 1.5vw, 0.9rem */
-          animation: tagFloat 3s ease-in-out infinite;
-        }
+    <!-- Small glow -->
+    <filter
+      id="smallGlow"
+      x="-100%"
+      y="-100%"
+      width="300%"
+      height="300%"
+    >
+      <feGaussianBlur
+        stdDeviation="2"
+        result="blur"
+      />
 
-        .tech-tag:nth-child(even) {
-          animation-delay: 1s;
-        }
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
 
-        .tech-tag:nth-child(3n) {
-          animation-delay: 2s;
-        }
+    <!-- Banner clipping -->
+    <clipPath id="bannerClip">
+      <rect
+        x="0"
+        y="0"
+        width="1200"
+        height="400"
+        rx="12"
+      />
+    </clipPath>
 
-        .particles {
-          position: absolute;
-          width: 100%;
-          height: 100%;
-          overflow: hidden;
-        }
+  </defs>
 
-        .particle {
-          position: absolute;
-          width: 2px;
-          height: 2px;
-          background: #4F8EF7;
-          border-radius: 50%;
-          animation: float 6s linear infinite;
-        }
 
-        .particle:nth-child(1) { left: 10%; animation-delay: 0s; }
-        .particle:nth-child(2) { left: 20%; animation-delay: 1s; }
-        .particle:nth-child(3) { left: 30%; animation-delay: 2s; }
-        .particle:nth-child(4) { left: 40%; animation-delay: 3s; }
-        .particle:nth-child(5) { left: 50%; animation-delay: 4s; }
-        .particle:nth-child(6) { left: 60%; animation-delay: 5s; }
-        .particle:nth-child(7) { left: 70%; animation-delay: 1.5s; }
-        .particle:nth-child(8) { left: 80%; animation-delay: 2.5s; }
-        .particle:nth-child(9) { left: 90%; animation-delay: 3.5s; }
+  <!-- =========================================================
+       BACKGROUND
+  ========================================================== -->
 
-        @keyframes typing {
-          0% { width: 0; }
-          50% { width: 100%; }
-          100% { width: 0; }
-        }
+  <rect
+    width="1200"
+    height="400"
+    rx="12"
+    fill="url(#background)"
+  />
 
-        @keyframes blink {
-          0%, 50% { border-color: #ffffff; }
-          51%, 100% { border-color: transparent; }
-        }
+  <!-- Left blue glow -->
 
-        @keyframes titleGlow {
-          0% { filter: drop-shadow(0 0 10px rgba(79, 142, 247, 0.3)); }
-          100% { filter: drop-shadow(0 0 20px rgba(79, 142, 247, 0.6)); }
-        }
+  <circle
+    cx="80"
+    cy="200"
+    r="300"
+    fill="url(#blueGlow)"
+  >
+    <animate
+      attributeName="opacity"
+      values="0.55;1;0.55"
+      dur="4s"
+      repeatCount="indefinite"
+    />
+  </circle>
 
-        @keyframes fadeInUp {
-          from {
-            opacity: 0;
-            transform: translateY(20px);
-          }
-          to {
-            opacity: 1;
-            transform: translateY(0);
-          }
-        }
 
-        @keyframes tagFloat {
-          0%, 100% { transform: translateY(0px); }
-          50% { transform: translateY(-5px); }
-        }
+  <!-- Right purple glow -->
 
-        @keyframes backgroundPulse {
-          0%, 100% { opacity: 0.5; }
-          50% { opacity: 0.8; }
-        }
+  <circle
+    cx="1120"
+    cy="200"
+    r="300"
+    fill="url(#purpleGlow)"
+  >
+    <animate
+      attributeName="opacity"
+      values="0.55;1;0.55"
+      dur="5s"
+      repeatCount="indefinite"
+    />
+  </circle>
 
-        @keyframes float {
-          0% {
-            transform: translateY(100vh) rotate(0deg);
-            opacity: 0;
-          }
-          10% {
-            opacity: 1;
-          }
-          90% {
-            opacity: 1;
-          }
-          100% {
-            transform: translateY(-100px) rotate(360deg);
-            opacity: 0;
-          }
-        }
 
-        /* Responsive design */
-        @media (max-width: 768px) {
-          .container {
-            padding: 15px;
-          }
-          .main-title {
-            font-size: clamp(2.2rem, 8vw, 3.5rem);
-            gap: 1rem;
-          }
-          .tech-stack {
-            gap: 14px;
-          }
-          .tech-tag {
-            padding: 8px 16px;
-            font-size: 1.1rem;
-          }
-          .typing-text {
-            font-size: clamp(1.1rem, 3vw, 2rem);
-          }
-          .subtitle {
-            font-size: clamp(1.1rem, 2vw, 1.4rem);
-          }
-        }
+  <!-- =========================================================
+       PARTICLES
+  ========================================================== -->
 
-        @media (max-width: 480px) {
-          .container {
-            padding: 10px;
-          }
-          .main-title {
-            font-size: clamp(1.3rem, 8vw, 2.2rem);
-            gap: 0.7rem;
-          }
-          .typing-text {
-            font-size: 1.3rem;
-          }
-          .subtitle {
-            font-size: 1rem;
-          }
-          .wave-hand {
-            font-size: 1.5rem;
-          }
-          .tech-tag {
-            font-size: 1rem;
-            padding: 6px 10px;
-          }
-        }
-      </style>
-      
-      <div class="container">
-        <div class="particles">
-          <div class="particle"></div>
-          <div class="particle"></div>
-          <div class="particle"></div>
-          <div class="particle"></div>
-          <div class="particle"></div>
-          <div class="particle"></div>
-          <div class="particle"></div>
-          <div class="particle"></div>
-          <div class="particle"></div>
-        </div>
-        
-        <div class="main-title">
-          Hi there, I'm Pratyush Pandey
-          <span class="wave-hand" aria-label="waving hand" role="img">👋</span>
-        </div>
-        
-        <div class="typing-container">
-          <div class="typing-text">
-            Fullstack ⚙️ MERN | Spring | AI Engineer
-          </div>
-        </div>
-        
-        <div class="subtitle">
-          Open Source ✨ | Tech Explorer 🚀
-        </div>
-        
-        <div class="tech-stack">
-          <div class="tech-tag">React</div>
-          <div class="tech-tag">Spring</div>
-          <div class="tech-tag">AI/ML</div>
-          <div class="tech-tag">TypeScript</div>
-                <div class="tech-tag">Next.js</div>
-          <div class="tech-tag">NLP</div>
-        </div>
-      </div>
-  </div>
- </foreignObject>
+  <g
+    fill="#4F8EF7"
+    filter="url(#smallGlow)"
+  >
+
+    <!-- Particle 1 -->
+    <circle
+      cx="100"
+      cy="100"
+      r="2"
+    >
+      <animate
+        attributeName="cy"
+        values="100;45;100"
+        dur="5s"
+        repeatCount="indefinite"
+      />
+    </circle>
+
+    <!-- Particle 2 -->
+    <circle
+      cx="210"
+      cy="320"
+      r="1.5"
+    >
+      <animate
+        attributeName="cy"
+        values="320;260;320"
+        dur="6s"
+        repeatCount="indefinite"
+      />
+    </circle>
+
+    <!-- Particle 3 -->
+    <circle
+      cx="350"
+      cy="75"
+      r="1.5"
+    >
+      <animate
+        attributeName="cy"
+        values="75;30;75"
+        dur="4s"
+        repeatCount="indefinite"
+      />
+    </circle>
+
+    <!-- Particle 4 -->
+    <circle
+      cx="500"
+      cy="330"
+      r="2"
+    >
+      <animate
+        attributeName="cy"
+        values="330;280;330"
+        dur="5s"
+        repeatCount="indefinite"
+      />
+    </circle>
+
+    <!-- Particle 5 -->
+    <circle
+      cx="650"
+      cy="55"
+      r="1.5"
+    >
+      <animate
+        attributeName="cy"
+        values="55;100;55"
+        dur="5s"
+        repeatCount="indefinite"
+      />
+    </circle>
+
+    <!-- Particle 6 -->
+    <circle
+      cx="790"
+      cy="90"
+      r="2"
+    >
+      <animate
+        attributeName="cy"
+        values="90;40;90"
+        dur="4.5s"
+        repeatCount="indefinite"
+      />
+    </circle>
+
+    <!-- Particle 7 -->
+    <circle
+      cx="930"
+      cy="315"
+      r="1.5"
+    >
+      <animate
+        attributeName="cy"
+        values="315;255;315"
+        dur="6s"
+        repeatCount="indefinite"
+      />
+    </circle>
+
+    <!-- Particle 8 -->
+    <circle
+      cx="1050"
+      cy="95"
+      r="1.5"
+    >
+      <animate
+        attributeName="cy"
+        values="95;45;95"
+        dur="5s"
+        repeatCount="indefinite"
+      />
+    </circle>
+
+    <!-- Particle 9 -->
+    <circle
+      cx="1140"
+      cy="250"
+      r="2"
+    >
+      <animate
+        attributeName="cy"
+        values="250;200;250"
+        dur="4.5s"
+        repeatCount="indefinite"
+      />
+    </circle>
+
+  </g>
+
+
+  <!-- =========================================================
+       MAIN CONTENT
+  ========================================================== -->
+
+  <g
+    clip-path="url(#bannerClip)"
+    font-family="monospace"
+    text-anchor="middle"
+  >
+
+    <!-- =======================================================
+         TOP LABEL
+    ======================================================== -->
+
+    <text
+      x="600"
+      y="60"
+      font-size="16"
+      font-weight="500"
+      letter-spacing="4"
+      fill="#7C8AA5"
+    >
+      DEVELOPER • AI • FULL STACK
+    </text>
+
+
+    <!-- =======================================================
+         MAIN TITLE
+    ======================================================== -->
+
+    <text
+      x="600"
+      y="145"
+      font-size="48"
+      font-weight="700"
+      fill="#FFFFFF"
+      filter="url(#textGlow)"
+    >
+      Hi there, I'm Pratyush Pandey
+
+      <animate
+        attributeName="opacity"
+        values="0.9;1;0.9"
+        dur="2.5s"
+        repeatCount="indefinite"
+      />
+    </text>
+
+
+    <!-- =======================================================
+         WAVING HAND
+    ======================================================== -->
+
+    <text
+      x="1000"
+      y="145"
+      font-size="38"
+      text-anchor="start"
+    >
+      👋
+
+      <animateTransform
+        attributeName="transform"
+        attributeType="XML"
+        type="rotate"
+        values="
+          0 1015 132;
+          14 1015 132;
+          -8 1015 132;
+          14 1015 132;
+          -4 1015 132;
+          10 1015 132;
+          0 1015 132
+        "
+        dur="2.2s"
+        repeatCount="indefinite"
+      />
+
+    </text>
+
+
+    <!-- =======================================================
+         DIVIDER
+    ======================================================== -->
+
+    <line
+      x1="350"
+      y1="175"
+      x2="850"
+      y2="175"
+      stroke="url(#accent)"
+      stroke-width="2"
+      opacity="0.8"
+    >
+
+      <animate
+        attributeName="x1"
+        values="410;350;410"
+        dur="3s"
+        repeatCount="indefinite"
+      />
+
+      <animate
+        attributeName="x2"
+        values="790;850;790"
+        dur="3s"
+        repeatCount="indefinite"
+      />
+
+    </line>
+
+
+    <!-- =======================================================
+         ROLE / TECH DESCRIPTION
+    ======================================================== -->
+
+    <text
+      x="600"
+      y="215"
+      font-size="24"
+      font-weight="600"
+      fill="#FFFFFF"
+    >
+
+      <tspan>
+        Fullstack
+      </tspan>
+
+      <tspan
+        fill="#4F8EF7"
+      >
+        ⚙
+      </tspan>
+
+      <tspan>
+        MERN
+      </tspan>
+
+      <tspan
+        fill="#6B7280"
+      >
+        |
+      </tspan>
+
+      <tspan>
+        Spring
+      </tspan>
+
+      <tspan
+        fill="#6B7280"
+      >
+        |
+      </tspan>
+
+      <tspan>
+        AI Engineer
+      </tspan>
+
+    </text>
+
+
+    <!-- =======================================================
+         SUBTITLE
+    ======================================================== -->
+
+    <text
+      x="600"
+      y="250"
+      font-size="18"
+      font-weight="500"
+      fill="#AEB8CC"
+    >
+      Open Source ✨  |  Tech Explorer 🚀
+    </text>
+
+
+    <!-- =======================================================
+         TECH STACK
+    ======================================================== -->
+
+
+    <!-- React -->
+
+    <g transform="translate(270,285)">
+
+      <rect
+        width="95"
+        height="38"
+        rx="19"
+        fill="#4F8EF7"
+        fill-opacity="0.10"
+        stroke="#4F8EF7"
+        stroke-opacity="0.5"
+      />
+
+      <text
+        x="47.5"
+        y="25"
+        font-size="15"
+        fill="#FFFFFF"
+      >
+        React
+      </text>
+
+    </g>
+
+
+    <!-- Spring -->
+
+    <g transform="translate(380,285)">
+
+      <rect
+        width="105"
+        height="38"
+        rx="19"
+        fill="#8B5CF6"
+        fill-opacity="0.10"
+        stroke="#8B5CF6"
+        stroke-opacity="0.5"
+      />
+
+      <text
+        x="52.5"
+        y="25"
+        font-size="15"
+        fill="#FFFFFF"
+      >
+        Spring
+      </text>
+
+    </g>
+
+
+    <!-- AI / ML -->
+
+    <g transform="translate(500,285)">
+
+      <rect
+        width="105"
+        height="38"
+        rx="19"
+        fill="#06B6D4"
+        fill-opacity="0.10"
+        stroke="#06B6D4"
+        stroke-opacity="0.5"
+      />
+
+      <text
+        x="52.5"
+        y="25"
+        font-size="15"
+        fill="#FFFFFF"
+      >
+        AI / ML
+      </text>
+
+    </g>
+
+
+    <!-- TypeScript -->
+
+    <g transform="translate(620,285)">
+
+      <rect
+        width="125"
+        height="38"
+        rx="19"
+        fill="#4F8EF7"
+        fill-opacity="0.10"
+        stroke="#4F8EF7"
+        stroke-opacity="0.5"
+      />
+
+      <text
+        x="62.5"
+        y="25"
+        font-size="15"
+        fill="#FFFFFF"
+      >
+        TypeScript
+      </text>
+
+    </g>
+
+
+    <!-- Next.js -->
+
+    <g transform="translate(760,285)">
+
+      <rect
+        width="100"
+        height="38"
+        rx="19"
+        fill="#8B5CF6"
+        fill-opacity="0.10"
+        stroke="#8B5CF6"
+        stroke-opacity="0.5"
+      />
+
+      <text
+        x="50"
+        y="25"
+        font-size="15"
+        fill="#FFFFFF"
+      >
+        Next.js
+      </text>
+
+    </g>
+
+
+    <!-- NLP -->
+
+    <g transform="translate(875,285)">
+
+      <rect
+        width="75"
+        height="38"
+        rx="19"
+        fill="#06B6D4"
+        fill-opacity="0.10"
+        stroke="#06B6D4"
+        stroke-opacity="0.5"
+      />
+
+      <text
+        x="37.5"
+        y="25"
+        font-size="15"
+        fill="#FFFFFF"
+      >
+        NLP
+      </text>
+
+    </g>
+
+
+    <!-- =======================================================
+         BOTTOM ACCENT
+    ======================================================== -->
+
+    <rect
+      x="450"
+      y="350"
+      width="300"
+      height="2"
+      rx="1"
+      fill="url(#accent)"
+      opacity="0.8"
+    >
+
+      <animate
+        attributeName="width"
+        values="220;300;220"
+        dur="3s"
+        repeatCount="indefinite"
+      />
+
+      <animate
+        attributeName="x"
+        values="490;450;490"
+        dur="3s"
+        repeatCount="indefinite"
+      />
+
+    </rect>
+
+
+    <!-- =======================================================
+         BOTTOM TEXT
+    ======================================================== -->
+
+    <text
+      x="600"
+      y="378"
+      font-size="12"
+      letter-spacing="2"
+      fill="#596579"
+    >
+      BUILD • LEARN • CREATE • REPEAT
+    </text>
+
+  </g>
+
+
+  <!-- =========================================================
+       OUTER BORDER
+  ========================================================== -->
+
+  <rect
+    x="1"
+    y="1"
+    width="1198"
+    height="398"
+    rx="12"
+    fill="none"
+    stroke="#1F2937"
+    stroke-width="2"
+  />
+
 </svg>
