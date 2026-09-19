@@ -1,7 +1,13 @@
 
  <div align="center">
 
-<img src="./header.svg" width="100%" alt="Pratyush Pandey - Developer Header" />
+<p align="center">
+  <img
+    src="./header-banner.png"
+    width="100%"
+    alt="Pratyush Pandey - Fullstack Developer and AI Enthusiast"
+  />
+</p>
 
 </div>
 
