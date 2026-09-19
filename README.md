@@ -10,49 +10,113 @@
   />
 </p>
 
+<div align="center">
+
+<!-- ===================== PRIMARY LINKS ===================== -->
+
 <p align="center">
   <a href="https://www.linkedin.com/in/pratyush-pandey1">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn" />
   </a>
+  &nbsp;
   <a href="https://github.com/its-pratyushpandey">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" height="28" alt="GitHub" />
   </a>
+  &nbsp;
   <a href="https://dev.pratyushpandey.me/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=firefox&logoColor=white" height="28" alt="Portfolio" />
   </a>
+  &nbsp;
   <a href="mailto:pratyush.me.ai@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="Email" />
   </a>
 </p>
+
+<!-- ===================== CODING PROFILES ===================== -->
 
 <p align="center">
   <a href="https://www.codechef.com/users/kl_2300030557">
-    <img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef" />
+    <img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" height="28" alt="CodeChef" />
   </a>
+  &nbsp;
   <a href="https://www.hackerrank.com/profile/klu2300030557">
-    <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" />
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" height="28" alt="HackerRank" />
   </a>
+  &nbsp;
   <a href="https://auth.geeksforgeeks.org/user/user_dm4ubxhqh8u">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" height="28" alt="GeeksforGeeks" />
   </a>
+  &nbsp;
   <a href="https://leetcode.com/klu2300030557/">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=white" height="28" alt="LeetCode" />
   </a>
+  &nbsp;
   <a href="https://dev.to/pratyush_kumarpandey_0f5">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" height="28" alt="Dev.to" />
   </a>
 </p>
 
+<!-- ===================== GITHUB METRICS ===================== -->
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Full--Stack-Developer-181717?style=for-the-badge&logo=github&logoColor=white" alt="Full Stack Developer" />
-  <img src="https://img.shields.io/badge/Java-Spring%20Boot-orange?style=for-the-badge&logo=springboot&logoColor=white" alt="Java Spring Boot" />
-  <img src="https://img.shields.io/badge/AI%20%26%20LLMs-Developer-blueviolet?style=for-the-badge&logo=openai&logoColor=white" alt="AI and LLMs Developer" />
-  <img src="https://img.shields.io/badge/India-Developer-FF9933?style=for-the-badge&logoColor=white" alt="India Developer" />
+  <a href="https://github.com/its-pratyushpandey?tab=repositories&sort=stargazers">
+    <img
+      src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/its-pratyushpandey"
+      height="28"
+      alt="GitHub Stars"
+    />
+  </a>
+  &nbsp;
+  <a href="https://github.com/its-pratyushpandey?tab=followers">
+    <img
+      src="https://custom-icon-badges.herokuapp.com/github/followers/its-pratyushpandey?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"
+      height="28"
+      alt="GitHub Followers"
+    />
+  </a>
+  &nbsp;
+  <img
+    src="https://komarev.com/ghpvc/?username=its-pratyushpandey&label=Profile%20Views&color=0e75b6&style=for-the-badge"
+    height="28"
+    alt="Profile Views"
+  />
 </p>
+
+<!-- ===================== PROFESSIONAL IDENTITY ===================== -->
+
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/Full--Stack-Developer-181717?style=for-the-badge&logo=github&logoColor=white"
+    height="28"
+    alt="Full Stack Developer"
+  />
+  &nbsp;
+  <img
+    src="https://img.shields.io/badge/Java-Spring%20Boot-orange?style=for-the-badge&logo=springboot&logoColor=white"
+    height="28"
+    alt="Java Spring Boot"
+  />
+  &nbsp;
+  <img
+    src="https://img.shields.io/badge/AI%20%26%20LLMs-Developer-blueviolet?style=for-the-badge&logo=openai&logoColor=white"
+    height="28"
+    alt="AI and LLMs Developer"
+  />
+  &nbsp;
+  <img
+    src="https://img.shields.io/badge/India-Developer-FF9933?style=for-the-badge"
+    height="28"
+    alt="India Developer"
+  />
+</p>
+
+<!-- ===================== TAGLINE ===================== -->
 
 <p align="center">
   <b>Building scalable applications • Engineering reliable backends • Exploring AI-powered software</b>
 </p>
+
+</div>
 
 </div>
 
