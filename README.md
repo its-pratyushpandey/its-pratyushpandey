@@ -431,9 +431,8 @@ An AI-powered career assistant designed to help candidates improve their resumes
 │  🧠 Data Structures & Algorithms                    │
 │                                                     │
 └─────────────────────────────────────────────────────┘
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="Section divider" />
-</p>
+---
+
 
 # 💡 What I Like Building
 
